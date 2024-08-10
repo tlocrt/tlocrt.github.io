@@ -1,0 +1,446 @@
+:root {
+    --gap: 0px;
+    --content-gap: 20px;
+    --nav-width: 720px;
+    --main-width: 720px;
+    --header-height-desktop: 50px;
+    --nav-height-desktop:30px;
+    --footer-height: 50px;
+    --background: #000000;
+    --text:  #CCCCCC;
+    --secondary: #777777;
+    --highlight: #FFFFFF;
+    --work-width: 400px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: var(--main-width);
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    min-height: 100vh;
+    margin-bottom: 0;
+}
+
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100;
+    font-size: 14pt;
+    color: var(--text);
+    background-color: var(--background);
+}
+
+
+
+h1 {
+    color: var(--highlight);
+}
+
+footer {
+    color: var(--secondary);
+    text-align: center;
+    font-size: 0.8em;
+
+    min-height: var(--footer-height);
+    padding-top: 40px
+}
+
+main {
+    flex-grow: 1;
+}
+
+header, main, footer {
+    flex-shrink: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+
+/* navigation bar settings  */
+
+.nav-bar {
+    text-align: center;
+    font-size: 0.8em;
+    display: flex;
+}
+
+.nav-bar > a {
+    color: var(--secondary);
+    display: block;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.nav-bar a.active {
+    font-weight: bold;
+    color: var(--highlight);
+}
+
+
+/* links inside markdown  */
+a.md-link {
+    color: var(--highlight);
+    text-decoration: none;
+    font-weight: 400;
+}
+
+
+
+
+.triple-col-gallery {
+    display: grid;
+    gap: 15px;
+}
+
+.triple-col-gallery-entry {
+    box-sizing: border-box;
+}
+
+.triple-col-gallery-entry img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Spacer for the last row alignment */
+.triple-col-gallery::after {
+    content: "";
+    display: block;
+    box-sizing: border-box;
+}
+
+
+
+
+.single-col-gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+}
+
+.single-col-gallery-entry {
+    box-sizing: border-box;
+}
+
+.single-col-gallery-entry img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: var(--work-width);
+    height: auto;
+}
+
+
+
+
+
+.fake-masonry-gallery {
+    column-count: 2;
+    column-gap: 10px;
+}
+
+
+
+
+
+.desc {
+    padding: 3%;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+
+.gallery-image img {
+    width: 100%;
+    height: auto; /* This maintains the aspect ratio */
+    display: block;
+
+    margin-bottom: 10px;
+}
+
+.date {
+    color: var(--secondary);
+}
+
+
+
+
+/* setup for music single pages */
+.work-image {
+    width: 100%;
+    max-width: var(--work-width);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.work-details {
+    display: grid;
+    grid-template-columns: max-content auto;
+    gap: 10px;
+    margin-top: 30px;
+}
+
+.work-detail {
+    display: contents; /* Allows the grid to handle the alignment */
+}
+
+.work-content {
+    padding-top: 30px;
+    width: 100%;
+    max-width: var(--work-width);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.work-content img {
+    max-width: 100%;
+}
+
+.label {
+    text-align: right;
+    padding-right: 5px;
+    grid-column: 1;
+    color: #777777;
+}
+
+.value {
+    text-align: left;
+    grid-column: 2;
+}
+
+.links-container {
+    display: flex;
+    gap: 15px; /* Space between links */
+    flex-wrap: wrap;
+}
+
+
+
+/* setup for "other" pages */
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+    padding-left: 3em;
+    text-indent: -1em;
+}
+
+li {
+    margin: 10px 0;
+}
+
+li:before {
+    content: "_";
+    padding-right: 0px;
+}
+
+
+.iframe-container {
+    margin: 0 auto;          /* Centers the wrapper in its parent container */
+    display: flex;
+    justify-content: center; /* Horizontally centers the iframe */
+    width: 100%;             /* Ensures the wrapper takes full width */
+    margin: 0 auto;          /* Centers the wrapper in its parent container */
+}
+
+.iframe-container iframe {
+    width: 90%;             /* Adjust width as needed */
+    aspect-ratio: 16/9;     /* Maintains aspect ratio if needed */
+    border: none;           /* Removes the border */
+}
+
+
+/* reponsive design */
+@media only screen and (min-width: 501px) {
+    .fake-masonry-gallery {
+        column-count: 2;
+    }
+
+    .header-container {
+        min-height: var(--header-height-desktop);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .gallery-image img {
+        margin-bottom: 10px;
+    }
+
+    .triple-col-gallery {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+    }
+
+    .logo img {
+        max-width: 300px;
+    }
+
+    .nav-bar {
+        height: var(--nav-height-desktop);
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .nav-bar > a {
+        display: block;
+        padding: 15px;
+    }
+
+    .label {
+        min-width: 145px;
+    }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .fake-masonry-gallery {
+        column-count: 1;
+      }
+
+    .gallery-image img {
+        margin-bottom: 20px;
+      }
+
+    .triple-col-gallery {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px;
+      }
+
+    .header-container {
+        margin-top: 15px;
+        display: flex;
+        flex-direction: row; /* Stack items vertically */
+        align-items: center; /* Align items to the start */
+        justify-content: space-between; /* Distribute space between logo and nav-bar */
+      }
+
+    .logo {
+        display: block;
+      }
+
+    .logo img {
+        max-width: 85%;
+    }
+
+    .nav-bar {
+        display: flex;
+        width: 30%;
+        flex-direction: column; /* Keep items in a row */
+        flex-wrap: nowrap; /* Prevent wrapping */
+      }
+
+    .nav-bar a {
+        margin-right: 0; /* Remove right margin for vertical layout */
+        margin-bottom: 3px; /* Space between links */
+      }
+
+    .label {
+        min-width: 90px;
+    }
+}
+
+/* fonts */
+
+/* montserrat-100 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-100italic - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-100italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-200 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-200italic - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 200;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-200italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-300 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-300.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-300italic - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 300;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-300italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-regular - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-italic - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-700 - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* montserrat-700italic - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/montserrat-v26-latin_latin-ext-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
