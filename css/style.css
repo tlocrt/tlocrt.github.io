@@ -254,7 +254,6 @@ a.md-link {
 
 
 
-/* setup for "other" pages */
 ul {
     list-style: none;
     margin-left: 0;
@@ -264,9 +263,6 @@ ul {
 li {
     padding-left: 3em;
     text-indent: -1em;
-}
-
-li {
     margin: 10px 0;
 }
 
@@ -274,6 +270,7 @@ li:before {
     content: "_";
     padding-right: 0px;
 }
+
 
 
 .iframe-container {
@@ -435,6 +432,25 @@ li:before {
         grid-template-columns: repeat(1, 1fr);
         gap: 15px;
       }
+
+
+
+    .latest ul {
+      list-style: none;
+      /* list-style-position: inside; */
+      padding-left: 0;
+    }
+
+    .latest li {
+        padding-left: 1em;
+        text-indent: -1em;
+    }
+
+    .latest li:before {
+        content: "_";
+        padding-right: 0px;
+    }
+
 }
 
 /* fonts */
