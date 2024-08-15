@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Videos on tlocrt</title><link>https://tlocrt.com/visual/videos/</link><description>Recent content in Videos on tlocrt</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tlocrt.com/visual/videos/index.xml" rel="self" type="application/rss+xml"/><item><title>Dissociate (Acoustic)</title><link>https://tlocrt.com/visual/videos/dissociate_acoustic/</link><pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate><guid>https://tlocrt.com/visual/videos/dissociate_acoustic/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on tlocrt</title>
+    <link>http://localhost:1313/visual/videos/</link>
+    <description>Recent content in Videos on tlocrt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/visual/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissociate (Acoustic)</title>
+      <link>http://localhost:1313/visual/videos/dissociate_acoustic/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/visual/videos/dissociate_acoustic/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photography on tlocrt</title><link>https://tlocrt.com/visual/photography/</link><description>Recent content in Photography on tlocrt</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tlocrt.com/visual/photography/index.xml" rel="self" type="application/rss+xml"/><item><title>Lofoten</title><link>https://tlocrt.com/visual/photography/lofoten/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><guid>https://tlocrt.com/visual/photography/lofoten/</guid><description/></item><item><title>Graubünden</title><link>https://tlocrt.com/visual/photography/graubuenden/</link><pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate><guid>https://tlocrt.com/visual/photography/graubuenden/</guid><description/></item><item><title>Berlin</title><link>https://tlocrt.com/visual/photography/berlin/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://tlocrt.com/visual/photography/berlin/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on tlocrt</title>
+    <link>http://localhost:1313/visual/photography/</link>
+    <description>Recent content in Photography on tlocrt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/visual/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lofoten</title>
+      <link>http://localhost:1313/visual/photography/lofoten/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/visual/photography/lofoten/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Graubünden</title>
+      <link>http://localhost:1313/visual/photography/graubuenden/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/visual/photography/graubuenden/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berlin</title>
+      <link>http://localhost:1313/visual/photography/berlin/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/visual/photography/berlin/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

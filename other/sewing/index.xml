@@ -1,9 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sewing on tlocrt</title><link>https://tlocrt.com/other/sewing/</link><description>Recent content in Sewing on tlocrt</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tlocrt.com/other/sewing/index.xml" rel="self" type="application/rss+xml"/><item><title>tank top</title><link>https://tlocrt.com/other/sewing/tank_top/</link><pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate><guid>https://tlocrt.com/other/sewing/tank_top/</guid><description>My mum was visiting and I made her a tank top. She wanted a tank top with longer sides, similar to one she already has.
-The most challenging part of this project was the bottom hem. Since the sides are longer, the bottom edges were not perpendicular to the side seam. I had to improvise sewing those corners, but they turned out not too bad.
-Here&amp;rsquo;s one more pic.</description></item><item><title>MIDI Keyboard Case</title><link>https://tlocrt.com/other/sewing/midi_keyboard_case/</link><pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate><guid>https://tlocrt.com/other/sewing/midi_keyboard_case/</guid><description>I had been on a passive lookout for a portable MIDI keyboard for quite some time. When I saw the beautiful Arturia MiniLab 3 Alpine White, I knew that was the one.
-Since I wanted to be able to take it places and since I had some curtain leftovers its beauty had to be protected at all costs, I decided to make a soft case for it.
-The biggest challenge in the design process was figuring out how to deal with the protruding knobs and faders.</description></item><item><title>Patch Shirt</title><link>https://tlocrt.com/other/sewing/patch_shirt/</link><pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate><guid>https://tlocrt.com/other/sewing/patch_shirt/</guid><description>This is the first item of clothing I made.
-It was also the most challenging sewing project so far. I had never worked with stretchy fabrics before and I don&amp;rsquo;t have a walking foot, so it took some trial and error before I was able to get anything resembling a &amp;ldquo;straight&amp;rdquo; zig-zag stitch.
-I also had a small accident while I was sewing a hem, which resulted in a small hole.</description></item><item><title>Pocket in a Pocket</title><link>https://tlocrt.com/other/sewing/pocket_in_a_pocket/</link><pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate><guid>https://tlocrt.com/other/sewing/pocket_in_a_pocket/</guid><description>I have a backpack that is lacking inner pockets and pen holders. The pocket-in-a-pocket solves this issue.
-It can also easily be moved to a different bag, together with all its contents.</description></item><item><title>Brush Roll</title><link>https://tlocrt.com/other/sewing/brush_roll/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://tlocrt.com/other/sewing/brush_roll/</guid><description>I needed somewhere to store my paintbrushes, so I created a brush roll out of some curtain leftovers and towel ties.
-Here it is in its rolled-up state.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sewing on tlocrt</title>
+    <link>http://localhost:1313/other/sewing/</link>
+    <description>Recent content in Sewing on tlocrt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/other/sewing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tank top</title>
+      <link>http://localhost:1313/other/sewing/tank_top/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other/sewing/tank_top/</guid>
+      <description>My mum was visiting and I made her a tank top. She wanted a tank top with longer sides, similar to one she already has.&#xA;The most challenging part of this project was the bottom hem. Since the sides are longer, the bottom edges were not perpendicular to the side seam. I had to improvise sewing those corners, but they turned out not too bad.&#xA;Here&amp;rsquo;s one more pic.</description>
+    </item>
+    <item>
+      <title>MIDI Keyboard Case</title>
+      <link>http://localhost:1313/other/sewing/midi_keyboard_case/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other/sewing/midi_keyboard_case/</guid>
+      <description>I had been on a passive lookout for a portable MIDI keyboard for quite some time. When I saw the beautiful Arturia MiniLab 3 Alpine White, I knew that was the one.&#xA;Since I wanted to be able to take it places and since I had some curtain leftovers its beauty had to be protected at all costs, I decided to make a soft case for it.&#xA;The biggest challenge in the design process was figuring out how to deal with the protruding knobs and faders.</description>
+    </item>
+    <item>
+      <title>Patch Shirt</title>
+      <link>http://localhost:1313/other/sewing/patch_shirt/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other/sewing/patch_shirt/</guid>
+      <description>This is the first item of clothing I made.&#xA;It was also the most challenging sewing project so far. I had never worked with stretchy fabrics before and I don&amp;rsquo;t have a walking foot, so it took some trial and error before I was able to get anything resembling a &amp;ldquo;straight&amp;rdquo; zig-zag stitch.&#xA;I also had a small accident while I was sewing a hem, which resulted in a small hole.</description>
+    </item>
+    <item>
+      <title>Pocket in a Pocket</title>
+      <link>http://localhost:1313/other/sewing/pocket_in_a_pocket/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other/sewing/pocket_in_a_pocket/</guid>
+      <description>I have a backpack that is lacking inner pockets and pen holders. The pocket-in-a-pocket solves this issue.&#xA;It can also easily be moved to a different bag, together with all its contents.</description>
+    </item>
+    <item>
+      <title>Brush Roll</title>
+      <link>http://localhost:1313/other/sewing/brush_roll/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other/sewing/brush_roll/</guid>
+      <description>I needed somewhere to store my paintbrushes, so I created a brush roll out of some curtain leftovers and towel ties.&#xA;Here it is in its rolled-up state.</description>
+    </item>
+  </channel>
+</rss>
