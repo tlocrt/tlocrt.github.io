@@ -288,6 +288,16 @@ li:before {
 }
 
 
+
+pre code {
+  font-size: 0.6em;
+}
+
+code {
+  font-size: 0.8em;
+}
+
+
 /* reponsive design */
 @media only screen and (min-width: 501px) {
 
@@ -385,7 +395,7 @@ li:before {
         display: grid;
         grid-template-columns: 1fr 1fr;
         /* font-size: 0.8em; */
-        margin-bottom: 4px;
+        margin-bottom: 8px;
       }
 
     .main-nav-bar {
@@ -403,7 +413,7 @@ li:before {
         width: 90px;
         margin-top: auto;
         margin-bottom: auto;
-        margin-right: -10px;
+        margin-right: -8px;
     }
 
     .main-nav-bar > a {
@@ -450,6 +460,14 @@ li:before {
         content: "_";
         padding-right: 0px;
     }
+
+
+    pre {
+        overflow-x: auto;
+        white-space: pre-wrap; /* Wrap lines on mobile */
+        word-wrap: break-word;
+    }
+
 
 }
 

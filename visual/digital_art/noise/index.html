@@ -1,177 +1,43 @@
-<!DOCTYPE html>
-<html lang="en-us" dir="ltr">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-<title>noise | tlocrt</title>
-<link rel="stylesheet" href="/css/style.css">
-<meta name="description" content="Music, art, and other fun things."> 
-</head>
+<!doctype html><html lang=en-us dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width"><title>noise | tlocrt</title>
+<link rel=stylesheet href=/css/style.css><meta name=description content="Music, art, and other fun things."></head><body><div class=container><header><div class=header-container><div class=logo><a href=/><img src=/tlocrt_logo.png alt=Logo></a></div><div class=nav-bar><div class=main-nav-bar><a href=/>Home</a>
+<a href=/music>Music</a>
+<a href=/visual class=active>Visual</a>
+<a href=/other>Other</a>
+<a href=/about>About</a></div><div class=sub-nav-bar><a href=/visual/photography>Photography</a>
+<a href=/visual/digital_art class=active>Digital art</a>
+<a href=/visual/paintings>Paintings</a>
+<a href=/visual/videos>Videos</a></div></div></div></header><main><div class=work-container><section class=work-entry><h1>Noise</h1><a href=/visual/digital_art/images/noise.png><img class=work-image src=/visual/digital_art/images/noise_hud45eb4101cb6cfe25d679cf42d14393e_1555080_700x700_fit_box_3.png alt="noise image" loading=lazy></a><div class=work-details><div class=work-detail><span class=label>Title:</span>
+<span class=value>Noise</span></div><div class=work-detail><span class=label>Software:</span>
+<span class=value>Processing</span></div><div class=work-detail><span class=label>Date:</span>
+<span class=value>May 2024</span></div></div><div class=work-content><p>At some point, I stumbled upon the gorgeous animations created by <a href=https://bleuje.com/>Bleuje</a>. According to the FAQ on the website, the animations were created in Processing, so I was inspired to try it out.</p><p>Noise is the third idea I tried (and the first one I thought looked kinda cool).</p><p>It was a fun little project and it increased my appreciation for what Bleuje is doing by 1000x.</p><p>Below is the code I used for Noise.</p><pre tabindex=0><code>int spacer;
+int line_length = 50;
+int n_cols = 100;
 
-<body>
-  <div class="container">
-    <header>
-      <div class="header-container">
-  <div class="logo">
-    
-      <a href="/"><img src="/tlocrt_logo.png" alt="Logo"></a>
-    
-  </div>
-  <div class="nav-bar">
-    <div class="main-nav-bar">
-    <a href="/" class="">Home</a>
-    <a href="/music" class="">Music</a>
-    <a href="/visual" class="active">Visual</a>
-    <a href="/other" class="">Other</a>
-    <a href="/about" class="">About</a>
-</div>
+void setup() {
+  size(1024, 1024);
 
+  spacer = width / n_cols;
+  strokeWeight(1);
+  stroke(255,255,255,90);
+  noLoop();  // Run once and stop
+}
 
-<div class="sub-nav-bar">
+void draw() {
+  background(0);
 
-    
-            <a href="/visual/photography" class="">Photography</a>
-            <a href="/visual/digital_art" class="active">Digital art</a>
-            <a href="/visual/paintings" class="">Paintings</a>
-            <a href="/visual/videos" class="">Videos</a>
-    
+  for (int y = spacer/2; y &lt; height; y += spacer) {
+    for (int x = spacer/2; x &lt; width; x += spacer) {
+      float angle = random(PI);
 
-
-
-    
-
-</div>
-  </div>
-</div>
-    </header>
-    <main>
-      
-<div class="work-container">
-
-    <section class="work-entry">
-
-      <h1>Noise</h1>
-
-
-      
-
-      
-
-          
-
-            
-
-                  
-
-                  
-                  
-                      
-                  
-
-                  
-                      
-                  
-                      
-                          
-                      
-                  
-                      
-                  
-
-
-                  
-
-
-                  <a href="/visual/digital_art/images/noise.png">
-                    <img class="work-image"
-                         src="/visual/digital_art/images/noise_hud45eb4101cb6cfe25d679cf42d14393e_1555080_700x700_fit_box_3.png"
-                         alt="noise image"
-                         loading="lazy">
-                  </a>
-
-
-          
-
-          
-      
-
-
-
-        <div class="work-details">
-
-            
-              <div class="work-detail">
-                <span class="label">Title:</span>
-                <span class="value">Noise</span>
-              </div>
-            
-
-
-            
-
-
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-              <div class="work-detail">
-                <span class="label">Software:</span>
-                <span class="value">Processing</span>
-              </div>
-            
-
-
-
-            
-
-            
-
-
-
-
-            
-              <div class="work-detail">
-                <span class="label">Date:</span>
-                <span class="value"> May 2024 </span>
-              </div>
-            
-
-        </div>
-
-        <div class="work-content">
-            
-        </div>
-
-    </section>
-
-  </div>
-
-    </main>
-    <footer>
-      <p>Copyright 2024. All rights reserved.</p>
-
-    </footer>
-  </div>
-</body>
-</html>
+      line(
+        x - line_length*cos(angle), 
+        y - line_length*sin(angle), 
+        x + line_length*cos(angle), 
+        y + line_length*sin(angle)
+      );
+    }
+  }
+  
+  save(&#34;noise.png&#34;);
+}
+</code></pre></div></section></div></main><footer><p>Copyright 2024. All rights reserved.</p></footer></div></body></html>
