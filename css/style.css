@@ -267,7 +267,7 @@ li {
 }
 
 li:before {
-    content: "_";
+    content: "_ ";
     padding-right: 0px;
 }
 
@@ -294,6 +294,13 @@ pre code {
 }
 
 code {
+  font-size: 0.8em;
+}
+
+
+
+.now-last-updated {
+  color: var(--secondary);
   font-size: 0.8em;
 }
 
