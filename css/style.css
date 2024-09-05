@@ -35,8 +35,12 @@ body {
 
 
 
-h1 {
+h1, h2, h3 {
     color: var(--highlight);
+}
+
+h2 {
+  font-size: 18pt;
 }
 
 footer {
@@ -57,7 +61,7 @@ header, main, footer {
 }
 
 a {
-    color: white;
+    color: var(--highlight);
     text-decoration: none;
     font-weight: 400;
 }
@@ -88,7 +92,6 @@ a {
 }
 
 .sub-nav-bar > a {
-    /* color: var(--text); */
     color: var(--secondary);
     display: block;
     text-decoration: none;
@@ -178,6 +181,31 @@ a.md-link {
 
 
 
+/* attempt, but doesn't look nice */
+.masonry-gallery {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  flex-basis: 49.2%; /* Adjust as needed for spacing */
+}
+
+.gallery-image {
+  margin-bottom: 10px; /* Space between images */
+}
+
+.left-column {
+  /* margin-right: 0; /\* Space between columns *\/ */
+}
+
+.right-column {
+  /* margin-left: 0.5%; /\* Space between columns *\/ */
+}
+
+
+
+
 
 .desc {
     padding: 3%;
@@ -238,7 +266,7 @@ a.md-link {
     text-align: right;
     padding-right: 5px;
     grid-column: 1;
-    color: #777777;
+    color: var(--secondary);
 }
 
 .value {
@@ -282,7 +310,7 @@ li:before {
 }
 
 .iframe-container iframe {
-    width: 90%;             /* Adjust width as needed */
+    width: 100%;             /* Adjust width as needed */
     aspect-ratio: 16/9;     /* Maintains aspect ratio if needed */
     border: none;           /* Removes the border */
 }
@@ -313,7 +341,12 @@ code {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        padding-bottom: 40px;
     }
+
+
+
+
 
     .logo {
       flex-shrink: 1;
@@ -323,11 +356,14 @@ code {
         max-width: 300px;
     }
 
+
+
+
+
     .nav-bar {
         height: var(--nav-height-desktop);
         display: flex;
         flex-direction: column;
-        /* justify-content: center; */
     }
 
     .main-nav-bar {
@@ -340,6 +376,26 @@ code {
         display: flex;
         justify-content: space-between;
     }
+
+
+
+
+
+    .other {
+      display: flex;
+      justify-content: center;
+    }
+
+    .about {
+      display: flex;
+      justify-content: end; /* not working?? */
+    }
+
+
+
+
+
+
 
     .sub-nav-bar > a:only-child {
       margin: 0 auto;
@@ -356,9 +412,18 @@ code {
       padding-right: 15px;
     }
 
+
+
+
+
+
+
     .label {
         min-width: 145px;
     }
+
+
+
 
     .fake-masonry-gallery {
         column-count: 2;
@@ -398,10 +463,8 @@ code {
     }
 
     .nav-bar {
-        /* width: 40%; */
         display: grid;
         grid-template-columns: 1fr 1fr;
-        /* font-size: 0.8em; */
         margin-bottom: 8px;
       }
 
