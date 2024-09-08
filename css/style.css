@@ -344,6 +344,7 @@ ul {
 li {
     text-indent: -1em;
     margin-bottom: 10px;
+    /* padding-left: 3em; */
 }
 
 .latest li {
@@ -634,6 +635,7 @@ code {
           max-content
           auto;
         gap: 10px var(--details-gap);
+    }
 
     /* .latest ul { */
     /*   list-style: none; */

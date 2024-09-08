@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>tlocrt</title><link>https://tlocrt.com/</link><pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate><description>Latest content from tlocrt</description><atom:link href="https://tlocrt.com/feed.xml" rel="self" type="application/rss+xml"/><item><title>
 Bitesized Website</title><link>https://tlocrt.com/other/web/bitesized_website/</link><guid>https://tlocrt.com/other/web/bitesized_website/</guid><pubDate>
 Sun, 01 Sep 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=bitesized_website_v01.png>
-&lt;p>A website for Bitesized, created in Hugo.&lt;p><![CDATA[
+A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA[
 
       
 
@@ -119,7 +118,7 @@ Sun, 01 Sep 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>I created another website, this time for Bitesized. This one was was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>.
+    </div>]]><![CDATA[<p>I created another website, this time for Bitesized. This one was was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>.
 I had some more skillz this time around and I could reuse the theme I had already built.</p>
 <p>Since most of the Bitesized cover art is greyscale, I went with a simple greyscale look.</p>
 <p>Bitesized is a DIY band. I tried conveying this by using a handwritten font in the headers and by incorporating custom handwritten letters in the logo.</p>
@@ -157,8 +156,7 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 ]]></content:encoded></item><item><title>Life of a Plant</title><link>https://tlocrt.com/visual/paintings/life_of_a_plant/</link><guid>https://tlocrt.com/visual/paintings/life_of_a_plant/</guid><pubDate>
 Tue, 20 Aug 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=life_of_a_plant_birdeye.jpg>
-&lt;p>An acrylic-on-canvas triptych, inspired by different colours of a plant.&lt;p><![CDATA[
+An acrylic-on-canvas triptych, inspired by different colours of a plant.</description><content:encoded><![CDATA[
 
       
 
@@ -288,7 +286,7 @@ Tue, 20 Aug 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>We have a big pretty plant (of the Scindapsus pictus kind I think). One day, after spotting one of its leaves that had fallen off, I felt inspired to paint something plant-related.</p>
+    </div>]]><![CDATA[<p>We have a big pretty plant (of the Scindapsus pictus kind I think). One day, after spotting one of its leaves that had fallen off, I felt inspired to paint something plant-related.</p>
 
 
 
@@ -393,8 +391,7 @@ Tue, 20 Aug 2024 00:00:00 +0000</pubDate><description>
 
 ]]></content:encoded></item><item><title>Tank Top</title><link>https://tlocrt.com/other/sewing/tank_top/</link><guid>https://tlocrt.com/other/sewing/tank_top/</guid><pubDate>
 Tue, 13 Aug 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=tank_top_on.jpg>
-&lt;p>A tank top with pointy sides, made for my mum.&lt;p><![CDATA[
+A tank top with pointy sides, made for my mum.</description><content:encoded><![CDATA[
 
       
 
@@ -513,7 +510,7 @@ Tue, 13 Aug 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>My mum was visiting and I made her a tank top.
+    </div>]]><![CDATA[<p>My mum was visiting and I made her a tank top.
 She wanted a tank top with longer sides, similar to one she already has.</p>
 <p>The most challenging part of this project was the bottom hem. Since the sides are longer, the bottom edges were not perpendicular to the side seam. I had to improvise sewing those corners, but they turned out not too bad.</p>
 
@@ -573,8 +570,7 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 
 ]]></content:encoded></item><item><title>tlocrt Website</title><link>https://tlocrt.com/other/web/tlocrt_website/</link><guid>https://tlocrt.com/other/web/tlocrt_website/</guid><pubDate>
 Sun, 04 Aug 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=tlocrt_website_202409.png>
-&lt;p>A personal website created in Hugo.&lt;p><![CDATA[
+A personal website created in Hugo.</description><content:encoded><![CDATA[
 
       
 
@@ -687,7 +683,7 @@ Sun, 04 Aug 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>This website was created in <a href="https://gohugo.io/">Hugo</a>. Since I was a web development noob, it took a small eternity. But it was fun!</p>
+    </div>]]><![CDATA[<p>This website was created in <a href="https://gohugo.io/">Hugo</a>. Since I was a web development noob, it took a small eternity. But it was fun!</p>
 <p>What you&rsquo;re seeing is a custom Hugo theme, developed by following the first ~1/3 of the helpful book <a href="https://pragprog.com/titles/bhhugo/build-websites-with-hugo/"><em>Build Websites with Hugo</em></a> by Brian P. Hogan and then freestyling (aka typing semi-coherent questions into various search engines and LLMs until something started working).</p>
 <h2 id="whats-up-with-the-name">What&rsquo;s up with the name?</h2>
 <p>The word &ldquo;tlocrt&rdquo; (pronounced tlotsrt) means &ldquo;ground plan&rdquo; in Serbo-Croatian.
@@ -713,8 +709,7 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 </ul>
 ]]></content:encoded></item><item><title>MIDI Keyboard Case</title><link>https://tlocrt.com/other/sewing/midi_keyboard_case/</link><guid>https://tlocrt.com/other/sewing/midi_keyboard_case/</guid><pubDate>
 Mon, 08 Jul 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=midi_keyboard_case_birdeye.jpg>
-&lt;p>A soft case for Arturia MiniLab 3 Alpine White.&lt;p><![CDATA[
+A soft case for Arturia MiniLab 3 Alpine White.</description><content:encoded><![CDATA[
 
       
 
@@ -837,7 +832,7 @@ Mon, 08 Jul 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>I had been on a passive lookout for a portable MIDI keyboard for quite some time. When I saw the beautiful Arturia MiniLab 3 Alpine White, I knew that was the one.</p>
+    </div>]]><![CDATA[<p>I had been on a passive lookout for a portable MIDI keyboard for quite some time. When I saw the beautiful Arturia MiniLab 3 Alpine White, I knew that was the one.</p>
 <p>Since I wanted to be able to take it places and since <del>I had some curtain leftovers</del> its beauty had to be protected, I decided to make a soft case for it.</p>
 
 
@@ -968,8 +963,7 @@ Mon, 08 Jul 2024 00:00:00 +0000</pubDate><description>
 
 ]]></content:encoded></item><item><title>Change of Scene</title><link>https://tlocrt.com/music/change_of_scene/</link><guid>https://tlocrt.com/music/change_of_scene/</guid><pubDate>
 Mon, 01 Jul 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=change_of_scene.jpg>
-&lt;p>A song about the uncertainty of moving to a different place.&lt;p><![CDATA[
+A song about the uncertainty of moving to a different place.</description><content:encoded><![CDATA[
 
       
 
@@ -1124,11 +1118,10 @@ Mon, 01 Jul 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded></content:encoded></item><item><title>
+    </div>]]></content:encoded></item><item><title>
 Noise</title><link>https://tlocrt.com/visual/digital_art/noise/</link><guid>https://tlocrt.com/visual/digital_art/noise/</guid><pubDate>
 Fri, 24 May 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=noise.png>
-&lt;p>My first Processing creation.&lt;p><![CDATA[
+My first Processing creation.</description><content:encoded><![CDATA[
 
       
 
@@ -1247,7 +1240,7 @@ Fri, 24 May 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>At some point, I stumbled upon the gorgeous animations created by <a href="https://bleuje.com/">Bleuje</a>. According to the FAQ on the website, the animations were created in Processing, so I was inspired to try it out.</p>
+    </div>]]><![CDATA[<p>At some point, I stumbled upon the gorgeous animations created by <a href="https://bleuje.com/">Bleuje</a>. According to the FAQ on the website, the animations were created in Processing, so I was inspired to try it out.</p>
 <p>Noise is the third idea I tried (and the first one I thought looked kinda cool).</p>
 <p>It was a fun little project and it made me appreciate Bleuje&rsquo;s work even more.</p>
 <p>Below is the code for Noise.</p>
@@ -1285,8 +1278,7 @@ void draw() {
 </code></pre>]]></content:encoded></item><item><title>
 Ghosting</title><link>https://tlocrt.com/visual/digital_art/ghosting/</link><guid>https://tlocrt.com/visual/digital_art/ghosting/</guid><pubDate>
 Thu, 23 May 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=ghosting.png>
-&lt;p>An abstract digital artwork.&lt;p><![CDATA[
+An abstract digital artwork.</description><content:encoded><![CDATA[
 
       
 
@@ -1405,12 +1397,11 @@ Thu, 23 May 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>After <a href="https://tlocrt.com/visual/digital_art/skyscrapers/">Skyscrapers</a>, I kept experimenting with gradients. Ghosting was the result.</p>
+    </div>]]><![CDATA[<p>After <a href="https://tlocrt.com/visual/digital_art/skyscrapers/">Skyscrapers</a>, I kept experimenting with gradients. Ghosting was the result.</p>
 <p>(The title comes from ghosting in photography, not in messaging.)</p>
 ]]></content:encoded></item><item><title>Skyscrapers</title><link>https://tlocrt.com/visual/digital_art/skyscrapers/</link><guid>https://tlocrt.com/visual/digital_art/skyscrapers/</guid><pubDate>
 Wed, 22 May 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=skyscrapers.png>
-&lt;p>An abstract digital artwork.&lt;p><![CDATA[
+An abstract digital artwork.</description><content:encoded><![CDATA[
 
       
 
@@ -1529,12 +1520,11 @@ Wed, 22 May 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded>&lt;p>I was trying to make a gradient for an unrelated project and I liked how two overlapping rectangles looked like.&lt;/p>
+    </div>]]>&lt;p>I was trying to make a gradient for an unrelated project and I liked how two overlapping rectangles looked like.&lt;/p>
 &lt;p>After some tweaking of the positions and the colours, Skyscrapers were born.&lt;/p></content:encoded></item><item><title>
 Patch Shirt</title><link>https://tlocrt.com/other/sewing/patch_shirt/</link><guid>https://tlocrt.com/other/sewing/patch_shirt/</guid><pubDate>
 Mon, 22 Apr 2024 00:00:00 +0000</pubDate><description>
-&lt;img src=patch_shirt_on.jpg>
-&lt;p>A stretchy shirt made from three different pieces of fabric.&lt;p><![CDATA[
+A stretchy shirt made from three different pieces of fabric.</description><content:encoded><![CDATA[
 
       
 
@@ -1655,7 +1645,7 @@ Mon, 22 Apr 2024 00:00:00 +0000</pubDate><description>
 
      </dl>
 
-    </div>]]></description><content:encoded><![CDATA[<p>This is the first item of clothing I made.</p>
+    </div>]]><![CDATA[<p>This is the first item of clothing I made.</p>
 <p>It was also the most challenging sewing project so far.
 I had never worked with stretchy fabrics before and I don&rsquo;t have a walking foot, so it took some trial and error before I was able to get anything resembling a &ldquo;straight&rdquo; zig-zag stitch.</p>
 
