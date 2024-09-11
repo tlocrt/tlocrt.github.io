@@ -13,6 +13,8 @@
     --highlight: #FFFFFF;
     --work-width: 400px;
     --line-height: 1.5;
+    --selection-color: #000000;
+    --selection-background-color: #FFFFFF;
 }
 
 
@@ -88,7 +90,6 @@ a:hover {
 
 a.before-date {
     display: inline-block;
-    /* margin-left: 1.15em; /\* adjust as needed *\/ */
 }
 
 
@@ -327,6 +328,7 @@ dd {
 /*     grid-column: 2; */
 /* } */
 
+
 .links-container {
     display: flex;
     gap: 15px; /* Space between links */
@@ -344,20 +346,15 @@ ul {
 li {
     text-indent: -1em;
     margin-bottom: 10px;
-    /* padding-left: 3em; */
 }
 
 .latest li {
-    /* padding-left: 3em; */
     text-indent: 0em;
-    /* margin-left: -4em; */
-    /* margin: -10px 0; */
 }
 
 
 li:before {
     content: "_ ";
-    /* margin-right: -1em; */
 }
 
 
