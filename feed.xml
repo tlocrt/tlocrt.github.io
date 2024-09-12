@@ -5,10 +5,10 @@
 
   <channel>
     <title>tlocrt</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tlocrt.com/</link>
     <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
     <description>Latest content from tlocrt</description>
-        <atom:link href="http://localhost:1313/feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tlocrt.com/feed.xml" rel="self" type="application/rss+xml" />
 
     
         
@@ -20,8 +20,8 @@
                         Bitesized Website
                     
                 </title>
-                <link>http://localhost:1313/other/web/bitesized_website/</link>
-                <guid>http://localhost:1313/other/web/bitesized_website/</guid>
+                <link>https://tlocrt.com/other/web/bitesized_website/</link>
+                <guid>https://tlocrt.com/other/web/bitesized_website/</guid>
                 <pubDate>
                     Sun, 01 Sep 2024 00:00:00 +0000
                 </pubDate>
@@ -56,9 +56,9 @@
                   
 
 
-                  <a href="http://localhost:1313/other/web/bitesized_website/images/bitesized_website_v01.png">
+                  <a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01.png">
                     <img class="work-image"
-                         src="http://localhost:1313/other/web/bitesized_website/images/bitesized_website_v01_hu01c135babcf186274ed725fccc77da77_148239_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01_hu01c135babcf186274ed725fccc77da77_148239_700x700_fit_box_3.png"
                          alt="bitesized website image"
                          loading="lazy">
                   </a>
@@ -146,7 +146,7 @@
 
      </dl>
 
-    </div>]]><![CDATA[<p>I created another website, this time for Bitesized. This one was was considerably less work than the <a href="http://localhost:1313/other/web/tlocrt_website/">tlocrt website</a>.
+    </div>]]><![CDATA[<p>I created another website, this time for Bitesized. This one was was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>.
 I had some more skillz this time around and I could reuse the theme I had already built.</p>
 <p>Since most of the Bitesized cover art is greyscale, I went with a simple greyscale look.</p>
 <p>Bitesized is a DIY band. I tried conveying this by using a handwritten font in the headers and by incorporating custom handwritten letters in the logo.</p>
@@ -175,9 +175,9 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 
 
-<a href="http://localhost:1313/other/web/bitesized_website/images/bitesized_website_favicon.png">
+<a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon.png">
 <img class="md-image"
-        src="http://localhost:1313/other/web/bitesized_website/images/bitesized_website_favicon_hu2d4b1b2c04df70e3aa317433e33eb39a_7794_700x700_fit_box_3.png"
+        src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu2d4b1b2c04df70e3aa317433e33eb39a_7794_700x700_fit_box_3.png"
         alt=""
         loading="lazy">
 </a>
@@ -193,8 +193,8 @@ I had some more skillz this time around and I could reuse the theme I had alread
                         Life of a Plant
                     
                 </title>
-                <link>http://localhost:1313/visual/paintings/life_of_a_plant/</link>
-                <guid>http://localhost:1313/visual/paintings/life_of_a_plant/</guid>
+                <link>https://tlocrt.com/visual/paintings/life_of_a_plant/</link>
+                <guid>https://tlocrt.com/visual/paintings/life_of_a_plant/</guid>
                 <pubDate>
                     Tue, 20 Aug 2024 00:00:00 +0000
                 </pubDate>
@@ -237,9 +237,9 @@ I had some more skillz this time around and I could reuse the theme I had alread
                   
 
 
-                  <a href="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye.jpg">
+                  <a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye.jpg">
                     <img class="work-image"
-                         src="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye_hua56cf32c843bd89902d37f34b0ba2127_1752302_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye_hua56cf32c843bd89902d37f34b0ba2127_1752302_700x700_fit_q75_box.jpg"
                          alt="Life of a plant image"
                          loading="lazy">
                   </a>
@@ -359,9 +359,9 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 
 
-<a href="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf.jpg">
+<a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf.jpg">
 <img class="md-image"
-        src="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf_huc5a1e2b3da54d1a55921dbb2eda59e09_259315_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf_huc5a1e2b3da54d1a55921dbb2eda59e09_259315_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -394,9 +394,9 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 
 
-<a href="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing.jpg">
+<a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing.jpg">
 <img class="md-image"
-        src="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu7642f1cffd76372cc3b3feea0de496e2_356619_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu7642f1cffd76372cc3b3feea0de496e2_356619_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -428,9 +428,9 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 
 
-<a href="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_side.jpg">
+<a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_side.jpg">
 <img class="md-image"
-        src="http://localhost:1313/visual/paintings/life_of_a_plant/images/life_of_a_plant_side_hua56cf32c843bd89902d37f34b0ba2127_498014_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_side_hua56cf32c843bd89902d37f34b0ba2127_498014_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -446,8 +446,8 @@ I had some more skillz this time around and I could reuse the theme I had alread
                         Tank Top
                     
                 </title>
-                <link>http://localhost:1313/other/sewing/tank_top/</link>
-                <guid>http://localhost:1313/other/sewing/tank_top/</guid>
+                <link>https://tlocrt.com/other/sewing/tank_top/</link>
+                <guid>https://tlocrt.com/other/sewing/tank_top/</guid>
                 <pubDate>
                     Tue, 13 Aug 2024 00:00:00 +0000
                 </pubDate>
@@ -484,9 +484,9 @@ I had some more skillz this time around and I could reuse the theme I had alread
                   
 
 
-                  <a href="http://localhost:1313/other/sewing/tank_top/images/tank_top_on.jpg">
+                  <a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on.jpg">
                     <img class="work-image"
-                         src="http://localhost:1313/other/sewing/tank_top/images/tank_top_on_hua56cf32c843bd89902d37f34b0ba2127_538574_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on_hua56cf32c843bd89902d37f34b0ba2127_538574_700x700_fit_q75_box.jpg"
                          alt="tank top image"
                          loading="lazy">
                   </a>
@@ -597,9 +597,9 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 
 
 
-<a href="http://localhost:1313/other/sewing/tank_top/images/tank_top_corner.jpg">
+<a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/tank_top/images/tank_top_corner_hu1f49314f8c93fed961f00ba10c8f2e3e_757469_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner_hu1f49314f8c93fed961f00ba10c8f2e3e_757469_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -625,9 +625,9 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 
 
 
-<a href="http://localhost:1313/other/sewing/tank_top/images/tank_top_shoulder.jpg">
+<a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/tank_top/images/tank_top_shoulder_hua56cf32c843bd89902d37f34b0ba2127_383322_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder_hua56cf32c843bd89902d37f34b0ba2127_383322_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -643,8 +643,8 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
                         tlocrt Website
                     
                 </title>
-                <link>http://localhost:1313/other/web/tlocrt_website/</link>
-                <guid>http://localhost:1313/other/web/tlocrt_website/</guid>
+                <link>https://tlocrt.com/other/web/tlocrt_website/</link>
+                <guid>https://tlocrt.com/other/web/tlocrt_website/</guid>
                 <pubDate>
                     Sun, 04 Aug 2024 00:00:00 +0000
                 </pubDate>
@@ -677,9 +677,9 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
                   
 
 
-                  <a href="http://localhost:1313/other/web/tlocrt_website/images/tlocrt_website_202409.png">
+                  <a href="https://tlocrt.com/other/web/tlocrt_website/images/tlocrt_website_202409.png">
                     <img class="work-image"
-                         src="http://localhost:1313/other/web/tlocrt_website/images/tlocrt_website_202409_huad050484ea539253c585dcac1ac24de8_113921_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/other/web/tlocrt_website/images/tlocrt_website_202409_huad050484ea539253c585dcac1ac24de8_113921_700x700_fit_box_3.png"
                          alt="tlocrt website image"
                          loading="lazy">
                   </a>
@@ -801,8 +801,8 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                         MIDI Keyboard Case
                     
                 </title>
-                <link>http://localhost:1313/other/sewing/midi_keyboard_case/</link>
-                <guid>http://localhost:1313/other/sewing/midi_keyboard_case/</guid>
+                <link>https://tlocrt.com/other/sewing/midi_keyboard_case/</link>
+                <guid>https://tlocrt.com/other/sewing/midi_keyboard_case/</guid>
                 <pubDate>
                     Mon, 08 Jul 2024 00:00:00 +0000
                 </pubDate>
@@ -843,9 +843,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                   
 
 
-                  <a href="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye.jpg">
+                  <a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye.jpg">
                     <img class="work-image"
-                         src="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye_hua56cf32c843bd89902d37f34b0ba2127_1080396_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye_hua56cf32c843bd89902d37f34b0ba2127_1080396_700x700_fit_q75_box.jpg"
                          alt="MIDI Keyboard Case image"
                          loading="lazy">
                   </a>
@@ -959,9 +959,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 
 
-<a href="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top.jpg">
+<a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top_hua56cf32c843bd89902d37f34b0ba2127_381715_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top_hua56cf32c843bd89902d37f34b0ba2127_381715_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -991,9 +991,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 
 
-<a href="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs.jpg">
+<a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs_hua56cf32c843bd89902d37f34b0ba2127_217240_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs_hua56cf32c843bd89902d37f34b0ba2127_217240_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1023,9 +1023,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 
 
-<a href="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge.jpg">
+<a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge_hua56cf32c843bd89902d37f34b0ba2127_366430_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge_hua56cf32c843bd89902d37f34b0ba2127_366430_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1055,9 +1055,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 
 
-<a href="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action.jpg">
+<a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action_hua56cf32c843bd89902d37f34b0ba2127_444473_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action_hua56cf32c843bd89902d37f34b0ba2127_444473_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1073,8 +1073,8 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                         Change of Scene
                     
                 </title>
-                <link>http://localhost:1313/music/change_of_scene/</link>
-                <guid>http://localhost:1313/music/change_of_scene/</guid>
+                <link>https://tlocrt.com/music/change_of_scene/</link>
+                <guid>https://tlocrt.com/music/change_of_scene/</guid>
                 <pubDate>
                     Mon, 01 Jul 2024 00:00:00 +0000
                 </pubDate>
@@ -1115,9 +1115,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                   
 
 
-                  <a href="http://localhost:1313/music/images/change_of_scene.jpg">
+                  <a href="https://tlocrt.com/music/images/change_of_scene.jpg">
                     <img class="work-image"
-                         src="http://localhost:1313/music/images/change_of_scene_hu3e29d5602b3ab7c642ff4147b8745316_2570227_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/music/images/change_of_scene_hu3e29d5602b3ab7c642ff4147b8745316_2570227_700x700_fit_q75_box.jpg"
                          alt="Change of scene artwork"
                          loading="lazy">
                   </a>
@@ -1248,8 +1248,8 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                         Noise
                     
                 </title>
-                <link>http://localhost:1313/visual/digital_art/noise/</link>
-                <guid>http://localhost:1313/visual/digital_art/noise/</guid>
+                <link>https://tlocrt.com/visual/digital_art/noise/</link>
+                <guid>https://tlocrt.com/visual/digital_art/noise/</guid>
                 <pubDate>
                     Fri, 24 May 2024 00:00:00 +0000
                 </pubDate>
@@ -1286,9 +1286,9 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                   
 
 
-                  <a href="http://localhost:1313/visual/digital_art/images/noise.png">
+                  <a href="https://tlocrt.com/visual/digital_art/images/noise.png">
                     <img class="work-image"
-                         src="http://localhost:1313/visual/digital_art/images/noise_hud45eb4101cb6cfe25d679cf42d14393e_1555080_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/visual/digital_art/images/noise_hud45eb4101cb6cfe25d679cf42d14393e_1555080_700x700_fit_box_3.png"
                          alt="noise image"
                          loading="lazy">
                   </a>
@@ -1422,8 +1422,8 @@ void draw() {
                         Ghosting
                     
                 </title>
-                <link>http://localhost:1313/visual/digital_art/ghosting/</link>
-                <guid>http://localhost:1313/visual/digital_art/ghosting/</guid>
+                <link>https://tlocrt.com/visual/digital_art/ghosting/</link>
+                <guid>https://tlocrt.com/visual/digital_art/ghosting/</guid>
                 <pubDate>
                     Thu, 23 May 2024 00:00:00 +0000
                 </pubDate>
@@ -1460,9 +1460,9 @@ void draw() {
                   
 
 
-                  <a href="http://localhost:1313/visual/digital_art/images/ghosting.png">
+                  <a href="https://tlocrt.com/visual/digital_art/images/ghosting.png">
                     <img class="work-image"
-                         src="http://localhost:1313/visual/digital_art/images/ghosting_hu9b5e8ee7b8c8a9972b5b45cf8249d4a9_141434_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/visual/digital_art/images/ghosting_hu9b5e8ee7b8c8a9972b5b45cf8249d4a9_141434_700x700_fit_box_3.png"
                          alt="ghosting image"
                          loading="lazy">
                   </a>
@@ -1550,7 +1550,7 @@ void draw() {
 
      </dl>
 
-    </div>]]><![CDATA[<p>After <a href="http://localhost:1313/visual/digital_art/skyscrapers/">Skyscrapers</a>, I kept experimenting with gradients. Ghosting was the result.</p>
+    </div>]]><![CDATA[<p>After <a href="https://tlocrt.com/visual/digital_art/skyscrapers/">Skyscrapers</a>, I kept experimenting with gradients. Ghosting was the result.</p>
 <p>(The title comes from ghosting in photography, not in messaging.)</p>
 ]]></content:encoded>
             </item>
@@ -1563,8 +1563,8 @@ void draw() {
                         Skyscrapers
                     
                 </title>
-                <link>http://localhost:1313/visual/digital_art/skyscrapers/</link>
-                <guid>http://localhost:1313/visual/digital_art/skyscrapers/</guid>
+                <link>https://tlocrt.com/visual/digital_art/skyscrapers/</link>
+                <guid>https://tlocrt.com/visual/digital_art/skyscrapers/</guid>
                 <pubDate>
                     Wed, 22 May 2024 00:00:00 +0000
                 </pubDate>
@@ -1601,9 +1601,9 @@ void draw() {
                   
 
 
-                  <a href="http://localhost:1313/visual/digital_art/images/skyscrapers.png">
+                  <a href="https://tlocrt.com/visual/digital_art/images/skyscrapers.png">
                     <img class="work-image"
-                         src="http://localhost:1313/visual/digital_art/images/skyscrapers_hu58af4fa8d6140d34150913fe1f21684a_210463_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/visual/digital_art/images/skyscrapers_hu58af4fa8d6140d34150913fe1f21684a_210463_700x700_fit_box_3.png"
                          alt="skyscrapers image"
                          loading="lazy">
                   </a>
@@ -1704,8 +1704,8 @@ void draw() {
                         Patch Shirt
                     
                 </title>
-                <link>http://localhost:1313/other/sewing/patch_shirt/</link>
-                <guid>http://localhost:1313/other/sewing/patch_shirt/</guid>
+                <link>https://tlocrt.com/other/sewing/patch_shirt/</link>
+                <guid>https://tlocrt.com/other/sewing/patch_shirt/</guid>
                 <pubDate>
                     Mon, 22 Apr 2024 00:00:00 +0000
                 </pubDate>
@@ -1744,9 +1744,9 @@ void draw() {
                   
 
 
-                  <a href="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_on.jpg">
+                  <a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_on.jpg">
                     <img class="work-image"
-                         src="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_on_hu9e4bd193e2aa921122e3686750d9d219_531714_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_on_hu9e4bd193e2aa921122e3686750d9d219_531714_700x700_fit_q75_box.jpg"
                          alt="Patch Shirt image"
                          loading="lazy">
                   </a>
@@ -1859,9 +1859,9 @@ I had never worked with stretchy fabrics before and I don&rsquo;t have a walking
 
 
 
-<a href="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_collar.jpg">
+<a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_collar.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_collar_hu7c0f160c53223f703ac4fe9d19cd979f_710997_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_collar_hu7c0f160c53223f703ac4fe9d19cd979f_710997_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1889,9 +1889,9 @@ I had never worked with stretchy fabrics before and I don&rsquo;t have a walking
 
 
 
-<a href="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_fail.jpg">
+<a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_fail.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_fail_hu228545a9b10bcb61288c71a94acef8f0_747200_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_fail_hu228545a9b10bcb61288c71a94acef8f0_747200_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1919,9 +1919,9 @@ I had never worked with stretchy fabrics before and I don&rsquo;t have a walking
 
 
 
-<a href="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_birdeye.jpg">
+<a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_birdeye.jpg">
 <img class="md-image"
-        src="http://localhost:1313/other/sewing/patch_shirt/images/patch_shirt_birdeye_hua56cf32c843bd89902d37f34b0ba2127_694258_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_birdeye_hua56cf32c843bd89902d37f34b0ba2127_694258_700x700_fit_q75_box.jpg"
         alt=""
         loading="lazy">
 </a>
