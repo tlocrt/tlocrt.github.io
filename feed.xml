@@ -1,35 +1,411 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>tlocrt</title><link>https://tlocrt.com/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><description>Latest content from tlocrt</description><atom:link href="https://tlocrt.com/feed.xml" rel="self" type="application/rss+xml"/><item><title>
+Alone</title><link>https://tlocrt.com/music/alone/</link><guid>https://tlocrt.com/music/alone/</guid><pubDate>
+Sat, 28 Dec 2024 00:00:00 +0000</pubDate><description>
+A song about arriving at a new place that is meant to become your new home.</description><content:encoded><![CDATA[
 
-  <channel>
-    <title>tlocrt</title>
-    <link>https://tlocrt.com/</link>
-    <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-    <description>Latest content from tlocrt</description>
-        <atom:link href="https://tlocrt.com/feed.xml" rel="self" type="application/rss+xml" />
+      
 
-    
+          
+
+            
+
+                  
+
+                  
+                  
+                      
+                  
+
+                  
+                      
+                          
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+
+
+                  
+
+
+                  <a href="https://tlocrt.com/music/images/alone.jpg">
+                    <img class="work-image"
+                         src="https://tlocrt.com/music/images/alone_hu9891254067318090865.jpg"
+                         alt="Alone artwork"
+                         loading="lazy">
+                  </a>
+
+
+          
+
+      
+
+
+
+        <div class="work-details">
+
+<dl>
+          
+            
+              <div class="work-detail">
+                <dt> <span class="label">Title:</span> </dt>
+                <dd> <span class="value">Alone</span> </dd>
+              </div>
+            
         
-    
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Description:</span> </dt>
+                <dd> <span class="value"> A song about arriving at a new place that is meant to become your new home. </span> </dd>
+              </div>
+            
+
+
+
+
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Release type:</span> </dt>
+                <dd> <span class="value">Single</span> </dd>
+              </div>
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Artist:</span> </dt>
+                <dd> <span class="value">Bitesized</span> </dd>
+              </div>
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Contributions:</span> </dt>
+                <dd> <span class="value">Co-production, co-writing, mixing</span> </dd>
+              </div>
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Links:</span> <dt>
+
+                <dd>
+                  <div class="links-container">
+
+                    
+                    <span class="value"><a href="https://music.apple.com/ch/album/alone-single/1787967468"> Apple Music </a></span>
+                    
+
+                    
+                    <span class="value"><a href="https://open.spotify.com/track/7u9l4vkRnmA2DNQ7yVfgfQ?si=02f39cbc58af4aad"> Spotify </a></span>
+                    
+
+                    
+                    <span class="value"><a href="https://www.youtube.com/watch?v=YdFtQlmsoWU"> YouTube </a></span>
+                    
+
+                    </div>
+                  </dd>
+              </div>
+            
+
+
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Date:</span> </dt>
+                <dd> <span class="value"> December 2024 </span> </dd>
+              </div>
+            
+
+     </dl>
+
+    </div>]]></content:encoded></item><item><title>Dash</title><link>https://tlocrt.com/visual/paintings/dash/</link><guid>https://tlocrt.com/visual/paintings/dash/</guid><pubDate>
+Sun, 17 Nov 2024 00:00:00 +0000</pubDate><description>
+A watercolor painting of my parents' dog.</description><content:encoded><![CDATA[
+
+      
+
+          
+
+            
+
+                  
+
+                  
+                  
+                      
+                  
+
+                  
+                      
+                          
+                      
+                  
+
+
+                  
+
+
+                  <a href="https://tlocrt.com/visual/paintings/dash/images/dash.jpg">
+                    <img class="work-image"
+                         src="https://tlocrt.com/visual/paintings/dash/images/dash_hu7575190480477096588.jpg"
+                         alt="Dash image"
+                         loading="lazy">
+                  </a>
+
+
+          
+
+      
+
+
+
+        <div class="work-details">
+
+<dl>
+          
+            
+              <div class="work-detail">
+                <dt> <span class="label">Title:</span> </dt>
+                <dd> <span class="value">Dash</span> </dd>
+              </div>
+            
         
-            <item>
-                <title>
-                    
-                        Bitesized Website
-                    
-                </title>
-                <link>https://tlocrt.com/other/web/bitesized_website/</link>
-                <guid>https://tlocrt.com/other/web/bitesized_website/</guid>
-                <pubDate>
-                    Sun, 01 Sep 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[A website for Bitesized, created in Hugo.]]>
-                </description>
-                <content:encoded><![CDATA[
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Description:</span> </dt>
+                <dd> <span class="value"> A watercolor painting of my parents&#39; dog. </span> </dd>
+              </div>
+            
+
+
+
+
+            
+
+            
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Size:</span> </dt>
+                <dd> <span class="value">20 cm x 15 cm</span> </dd>
+              </div>
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Medium:</span> </dt>
+                <dd> <span class="value">Watercolors on paper</span> </dd>
+              </div>
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Date:</span> </dt>
+                <dd> <span class="value"> November 2024 </span> </dd>
+              </div>
+            
+
+     </dl>
+
+    </div>]]></content:encoded></item><item><title>Unknowable</title><link>https://tlocrt.com/visual/paintings/unknowable/</link><guid>https://tlocrt.com/visual/paintings/unknowable/</guid><pubDate>
+Wed, 06 Nov 2024 00:00:00 +0000</pubDate><description>
+An abstract watercolour painting.</description><content:encoded><![CDATA[
+
+      
+
+          
+
+            
+
+                  
+
+                  
+                  
+                      
+                  
+
+                  
+                      
+                          
+                      
+                  
+
+
+                  
+
+
+                  <a href="https://tlocrt.com/visual/paintings/unknowable/images/unknowable.jpg">
+                    <img class="work-image"
+                         src="https://tlocrt.com/visual/paintings/unknowable/images/unknowable_hu6880694866023439648.jpg"
+                         alt="Unknowable image"
+                         loading="lazy">
+                  </a>
+
+
+          
+
+      
+
+
+
+        <div class="work-details">
+
+<dl>
+          
+            
+              <div class="work-detail">
+                <dt> <span class="label">Title:</span> </dt>
+                <dd> <span class="value">Unknowable</span> </dd>
+              </div>
+            
+        
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Description:</span> </dt>
+                <dd> <span class="value"> An abstract watercolour painting. </span> </dd>
+              </div>
+            
+
+
+
+
+            
+
+            
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Size:</span> </dt>
+                <dd> <span class="value">20 cm x 15 cm</span> </dd>
+              </div>
+            
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Medium:</span> </dt>
+                <dd> <span class="value">Watercolours on paper</span> </dd>
+              </div>
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Date:</span> </dt>
+                <dd> <span class="value"> November 2024 </span> </dd>
+              </div>
+            
+
+     </dl>
+
+    </div>]]>&lt;p>Inspired by the interludes from the 2024 Sleep Token tour.&lt;/p>
+</content:encoded></item><item><title>Bitesized Website</title><link>https://tlocrt.com/other/web/bitesized_website/</link><guid>https://tlocrt.com/other/web/bitesized_website/</guid><pubDate>
+Sun, 01 Sep 2024 00:00:00 +0000</pubDate><description>
+A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA[
 
       
 
@@ -58,7 +434,7 @@
 
                   <a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01.png">
                     <img class="work-image"
-                         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01_hu01c135babcf186274ed725fccc77da77_148239_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01_hu9878913375542596661.png"
                          alt="bitesized website image"
                          loading="lazy">
                   </a>
@@ -146,8 +522,7 @@
 
      </dl>
 
-    </div>]]><![CDATA[<p>I created another website, this time for Bitesized. This one was was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>.
-I had some more skillz this time around and I could reuse the theme I had already built.</p>
+    </div>]]><![CDATA[<p>I created another website, this time for Bitesized. This one was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>, as I could reuse the theme I had already built.</p>
 <p>Since most of the Bitesized cover art is greyscale, I went with a simple greyscale look.</p>
 <p>Bitesized is a DIY band. I tried conveying this by using a handwritten font in the headers and by incorporating custom handwritten letters in the logo.</p>
 <p>Website features include:</p>
@@ -177,32 +552,14 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 <a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon.png">
 <img class="md-image"
-        src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu2d4b1b2c04df70e3aa317433e33eb39a_7794_700x700_fit_box_3.png"
+        src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu11795942459930596934.png"
         alt=""
         loading="lazy">
 </a>
 
-]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Life of a Plant
-                    
-                </title>
-                <link>https://tlocrt.com/visual/paintings/life_of_a_plant/</link>
-                <guid>https://tlocrt.com/visual/paintings/life_of_a_plant/</guid>
-                <pubDate>
-                    Tue, 20 Aug 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[An acrylic-on-canvas triptych, inspired by different colours of a plant.]]>
-                </description>
-                <content:encoded><![CDATA[
+]]></content:encoded></item><item><title>Life of a Plant</title><link>https://tlocrt.com/visual/paintings/life_of_a_plant/</link><guid>https://tlocrt.com/visual/paintings/life_of_a_plant/</guid><pubDate>
+Tue, 20 Aug 2024 00:00:00 +0000</pubDate><description>
+An acrylic-on-canvas triptych, inspired by different colours of a plant.</description><content:encoded><![CDATA[
 
       
 
@@ -239,7 +596,7 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
                   <a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye_hua56cf32c843bd89902d37f34b0ba2127_1752302_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_birdeye_hu14154229490679998858.jpg"
                          alt="Life of a plant image"
                          loading="lazy">
                   </a>
@@ -361,7 +718,7 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 <a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf_huc5a1e2b3da54d1a55921dbb2eda59e09_259315_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_leaf_hu1449941057489291313.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -396,12 +753,12 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 <a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu7642f1cffd76372cc3b3feea0de496e2_356619_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu5531893980789346206.jpg"
         alt=""
         loading="lazy">
 </a>
 
-<p>In the end, I found it especially cool how the partially mixed green-yellow-black-with-a-tiny-bit-of-brown in the middle painting turned out.</p>
+<p>Here&rsquo;s one more pic.</p>
 
 
 
@@ -430,32 +787,14 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
 <a href="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_side.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_side_hua56cf32c843bd89902d37f34b0ba2127_498014_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/visual/paintings/life_of_a_plant/images/life_of_a_plant_side_hu16710045454553034650.jpg"
         alt=""
         loading="lazy">
 </a>
 
-]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Tank Top
-                    
-                </title>
-                <link>https://tlocrt.com/other/sewing/tank_top/</link>
-                <guid>https://tlocrt.com/other/sewing/tank_top/</guid>
-                <pubDate>
-                    Tue, 13 Aug 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[A tank top with pointy sides, made for my mum.]]>
-                </description>
-                <content:encoded><![CDATA[
+]]></content:encoded></item><item><title>Tank Top</title><link>https://tlocrt.com/other/sewing/tank_top/</link><guid>https://tlocrt.com/other/sewing/tank_top/</guid><pubDate>
+Tue, 13 Aug 2024 00:00:00 +0000</pubDate><description>
+A tank top with pointy sides, made for my mum.</description><content:encoded><![CDATA[
 
       
 
@@ -486,7 +825,7 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
                   <a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on_hua56cf32c843bd89902d37f34b0ba2127_538574_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on_hu18232909647252170831.jpg"
                          alt="tank top image"
                          loading="lazy">
                   </a>
@@ -576,7 +915,7 @@ I had some more skillz this time around and I could reuse the theme I had alread
 
     </div>]]><![CDATA[<p>My mum was visiting and I made her a tank top.
 She wanted a tank top with longer sides, similar to one she already has.</p>
-<p>The most challenging part of this project was the bottom hem. Since the sides are longer, the bottom edges were not perpendicular to the side seam. I had to improvise sewing those corners, but they turned out not too bad.</p>
+<p>The most challenging part of this project was the bottom hem. Since the sides are longer, the bottom edges were not perpendicular to the side seam and I had to improvise sewing those corners. I guess they turned out okay given my (lack of) XP.</p>
 
 
 
@@ -599,7 +938,7 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 
 <a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner_hu1f49314f8c93fed961f00ba10c8f2e3e_757469_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner_hu7253823171372016590.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -627,32 +966,14 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 
 <a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder_hua56cf32c843bd89902d37f34b0ba2127_383322_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder_hu16965250538944580111.jpg"
         alt=""
         loading="lazy">
 </a>
 
-]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        tlocrt Website
-                    
-                </title>
-                <link>https://tlocrt.com/other/web/tlocrt_website/</link>
-                <guid>https://tlocrt.com/other/web/tlocrt_website/</guid>
-                <pubDate>
-                    Sun, 04 Aug 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[A personal website created in Hugo.]]>
-                </description>
-                <content:encoded><![CDATA[
+]]></content:encoded></item><item><title>tlocrt Website</title><link>https://tlocrt.com/other/web/tlocrt_website/</link><guid>https://tlocrt.com/other/web/tlocrt_website/</guid><pubDate>
+Sun, 04 Aug 2024 00:00:00 +0000</pubDate><description>
+A personal website created in Hugo.</description><content:encoded><![CDATA[
 
       
 
@@ -679,7 +1000,7 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 
                   <a href="https://tlocrt.com/other/web/tlocrt_website/images/tlocrt_website_202409.png">
                     <img class="work-image"
-                         src="https://tlocrt.com/other/web/tlocrt_website/images/tlocrt_website_202409_huad050484ea539253c585dcac1ac24de8_113921_700x700_fit_box_3.png"
+                         src="https://tlocrt.com/other/web/tlocrt_website/images/tlocrt_website_202409_hu13544187863326975319.png"
                          alt="tlocrt website image"
                          loading="lazy">
                   </a>
@@ -769,7 +1090,7 @@ She wanted a tank top with longer sides, similar to one she already has.</p>
 <p>What you&rsquo;re seeing is a custom Hugo theme, developed by following the first ~1/3 of the helpful book <a href="https://pragprog.com/titles/bhhugo/build-websites-with-hugo/"><em>Build Websites with Hugo</em></a> by Brian P. Hogan and then freestyling (aka typing semi-coherent questions into various search engines and LLMs until something started working).</p>
 <h2 id="whats-up-with-the-name">What&rsquo;s up with the name?</h2>
 <p>The word &ldquo;tlocrt&rdquo; (pronounced tlotsrt) means &ldquo;ground plan&rdquo; in Serbo-Croatian.
-I picked it mainly because I liked how the word looked &mdash; it&rsquo;s kind of symmetric, but also not really.
+I picked it mainly because I liked how the word looked with its kind-of symmetry.
 Also it&rsquo;s not easy to find a cool domain name in 2024 that is also available&hellip;</p>
 <p>The logo was inspired by the meaning of the word and contains artistic interpretations of elements of technical drawings.</p>
 <h2 id="features">Features</h2>
@@ -784,33 +1105,96 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 <p>Every time I work on the website, I get many wonderful ideas of what I can do next, all of which I promptly forget the moment I stop working on it.</p>
 <p>Cue: a TODO list.</p>
 <ul>
-<li>Maybe reconsider the font</li>
+<li><del>Maybe reconsider the font</del> Font was reconsidered!</li>
 <li>Make priority lists nicer</li>
 <li>Tidy up the css / work details</li>
 </ul>
-]]></content:encoded>
-            </item>
+]]></content:encoded></item><item><title>Zürich</title><link>https://tlocrt.com/visual/photography/zurich/</link><guid>https://tlocrt.com/visual/photography/zurich/</guid><pubDate>
+Sun, 28 Jul 2024 00:00:00 +0000</pubDate><description>
+A photo day in Zürich with two friends.</description><content:encoded><![CDATA[
+
+      
+
+          
+
+      
+
+
+
+        <div class="work-details">
+
+<dl>
+          
+            
+              <div class="work-detail">
+                <dt> <span class="label">Title:</span> </dt>
+                <dd> <span class="value">Zürich</span> </dd>
+              </div>
+            
         
-    
-        
-    
-        
-            <item>
-                <title>
-                    
-                        MIDI Keyboard Case
-                    
-                </title>
-                <link>https://tlocrt.com/other/sewing/midi_keyboard_case/</link>
-                <guid>https://tlocrt.com/other/sewing/midi_keyboard_case/</guid>
-                <pubDate>
-                    Mon, 08 Jul 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[A soft case for Arturia MiniLab 3 Alpine White.]]>
-                </description>
-                <content:encoded><![CDATA[
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Description:</span> </dt>
+                <dd> <span class="value"> A photo day in Zürich with two friends. </span> </dd>
+              </div>
+            
+
+
+
+
+            
+
+            
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Date:</span> </dt>
+                <dd> <span class="value"> July 2024 </span> </dd>
+              </div>
+            
+
+     </dl>
+
+    </div>]]></content:encoded></item><item><title>MIDI Keyboard Case</title><link>https://tlocrt.com/other/sewing/midi_keyboard_case/</link><guid>https://tlocrt.com/other/sewing/midi_keyboard_case/</guid><pubDate>
+Mon, 08 Jul 2024 00:00:00 +0000</pubDate><description>
+A soft case for Arturia MiniLab 3 Alpine White.</description><content:encoded><![CDATA[
 
       
 
@@ -845,7 +1229,7 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
                   <a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye_hua56cf32c843bd89902d37f34b0ba2127_1080396_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_birdeye_hu1427232435292066043.jpg"
                          alt="MIDI Keyboard Case image"
                          loading="lazy">
                   </a>
@@ -961,7 +1345,7 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 <a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top_hua56cf32c843bd89902d37f34b0ba2127_381715_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_top_hu17303057390936199384.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -993,7 +1377,7 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 <a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs_hua56cf32c843bd89902d37f34b0ba2127_217240_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_knobs_hu16581442209426891621.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1025,7 +1409,7 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 <a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge_hua56cf32c843bd89902d37f34b0ba2127_366430_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_sponge_hu16229270723833033001.jpg"
         alt=""
         loading="lazy">
 </a>
@@ -1057,32 +1441,14 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
 <a href="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action.jpg">
 <img class="md-image"
-        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action_hua56cf32c843bd89902d37f34b0ba2127_444473_700x700_fit_q75_box.jpg"
+        src="https://tlocrt.com/other/sewing/midi_keyboard_case/images/midi_keyboard_case_in_action_hu4229097017450424390.jpg"
         alt=""
         loading="lazy">
 </a>
 
-]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Change of Scene
-                    
-                </title>
-                <link>https://tlocrt.com/music/change_of_scene/</link>
-                <guid>https://tlocrt.com/music/change_of_scene/</guid>
-                <pubDate>
-                    Mon, 01 Jul 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[A song about the uncertainty of moving to a different place.]]>
-                </description>
-                <content:encoded><![CDATA[
+]]></content:encoded></item><item><title>Change of Scene</title><link>https://tlocrt.com/music/change_of_scene/</link><guid>https://tlocrt.com/music/change_of_scene/</guid><pubDate>
+Mon, 01 Jul 2024 00:00:00 +0000</pubDate><description>
+A song about the uncertainty of moving to a different place.</description><content:encoded><![CDATA[
 
       
 
@@ -1103,6 +1469,8 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
                       
                   
                       
+                  
+                      
                           
                       
                   
@@ -1117,7 +1485,7 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
                   <a href="https://tlocrt.com/music/images/change_of_scene.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/music/images/change_of_scene_hu3e29d5602b3ab7c642ff4147b8745316_2570227_700x700_fit_q75_box.jpg"
+                         src="https://tlocrt.com/music/images/change_of_scene_hu8520309022617658014.jpg"
                          alt="Change of scene artwork"
                          loading="lazy">
                   </a>
@@ -1237,700 +1605,4 @@ Also it&rsquo;s not easy to find a cool domain name in 2024 that is also availab
 
      </dl>
 
-    </div>]]><![CDATA[]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Noise
-                    
-                </title>
-                <link>https://tlocrt.com/visual/digital_art/noise/</link>
-                <guid>https://tlocrt.com/visual/digital_art/noise/</guid>
-                <pubDate>
-                    Fri, 24 May 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[My first Processing creation.]]>
-                </description>
-                <content:encoded><![CDATA[
-
-      
-
-          
-
-            
-
-                  
-
-                  
-                  
-                      
-                  
-
-                  
-                      
-                  
-                      
-                          
-                      
-                  
-                      
-                  
-
-
-                  
-
-
-                  <a href="https://tlocrt.com/visual/digital_art/images/noise.png">
-                    <img class="work-image"
-                         src="https://tlocrt.com/visual/digital_art/images/noise_hud45eb4101cb6cfe25d679cf42d14393e_1555080_700x700_fit_box_3.png"
-                         alt="noise image"
-                         loading="lazy">
-                  </a>
-
-
-          
-
-      
-
-
-
-        <div class="work-details">
-
-<dl>
-          
-            
-              <div class="work-detail">
-                <dt> <span class="label">Title:</span> </dt>
-                <dd> <span class="value">Noise</span> </dd>
-              </div>
-            
-        
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Description:</span> </dt>
-                <dd> <span class="value"> My first Processing creation. </span> </dd>
-              </div>
-            
-
-
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Software:</span> </dt>
-                <dd> <span class="value">Processing</span> </dd>
-              </div>
-            
-
-
-
-            
-
-            
-
-
-
-            
-
-            
-
-
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Date:</span> </dt>
-                <dd> <span class="value"> May 2024 </span> </dd>
-              </div>
-            
-
-     </dl>
-
-    </div>]]><![CDATA[<p>At some point, I stumbled upon the gorgeous animations created by <a href="https://bleuje.com/">Bleuje</a>. According to the FAQ on the website, the animations were created in Processing, so I was inspired to try it out.</p>
-<p>Noise is the third idea I tried (and the first one I thought looked kinda cool).</p>
-<p>It was a fun little project and it made me appreciate Bleuje&rsquo;s work even more.</p>
-<p>Below is the code for Noise.</p>
-<pre tabindex="0"><code>int spacer;
-int line_length = 50;
-int n_cols = 100;
-
-void setup() {
-  size(1024, 1024);
-
-  spacer = width / n_cols;
-  strokeWeight(1);
-  stroke(255,255,255,90);
-  noLoop();  // Run once and stop
-}
-
-void draw() {
-  background(0);
-
-  for (int y = spacer/2; y &lt; height; y += spacer) {
-    for (int x = spacer/2; x &lt; width; x += spacer) {
-      float angle = random(PI);
-
-      line(
-        x - line_length*cos(angle), 
-        y - line_length*sin(angle), 
-        x + line_length*cos(angle), 
-        y + line_length*sin(angle)
-      );
-    }
-  }
-  
-  save(&#34;noise.png&#34;);
-}
-</code></pre>]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Ghosting
-                    
-                </title>
-                <link>https://tlocrt.com/visual/digital_art/ghosting/</link>
-                <guid>https://tlocrt.com/visual/digital_art/ghosting/</guid>
-                <pubDate>
-                    Thu, 23 May 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[An abstract digital artwork.]]>
-                </description>
-                <content:encoded><![CDATA[
-
-      
-
-          
-
-            
-
-                  
-
-                  
-                  
-                      
-                  
-
-                  
-                      
-                          
-                      
-                  
-                      
-                  
-                      
-                  
-
-
-                  
-
-
-                  <a href="https://tlocrt.com/visual/digital_art/images/ghosting.png">
-                    <img class="work-image"
-                         src="https://tlocrt.com/visual/digital_art/images/ghosting_hu9b5e8ee7b8c8a9972b5b45cf8249d4a9_141434_700x700_fit_box_3.png"
-                         alt="ghosting image"
-                         loading="lazy">
-                  </a>
-
-
-          
-
-      
-
-
-
-        <div class="work-details">
-
-<dl>
-          
-            
-              <div class="work-detail">
-                <dt> <span class="label">Title:</span> </dt>
-                <dd> <span class="value">Ghosting</span> </dd>
-              </div>
-            
-        
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Description:</span> </dt>
-                <dd> <span class="value"> An abstract digital artwork. </span> </dd>
-              </div>
-            
-
-
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Software:</span> </dt>
-                <dd> <span class="value">Affinity Designer</span> </dd>
-              </div>
-            
-
-
-
-            
-
-            
-
-
-
-            
-
-            
-
-
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Date:</span> </dt>
-                <dd> <span class="value"> May 2024 </span> </dd>
-              </div>
-            
-
-     </dl>
-
-    </div>]]><![CDATA[<p>After <a href="https://tlocrt.com/visual/digital_art/skyscrapers/">Skyscrapers</a>, I kept experimenting with gradients. Ghosting was the result.</p>
-<p>(The title comes from ghosting in photography, not in messaging.)</p>
-]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Skyscrapers
-                    
-                </title>
-                <link>https://tlocrt.com/visual/digital_art/skyscrapers/</link>
-                <guid>https://tlocrt.com/visual/digital_art/skyscrapers/</guid>
-                <pubDate>
-                    Wed, 22 May 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[An abstract digital artwork.]]>
-                </description>
-                <content:encoded><![CDATA[
-
-      
-
-          
-
-            
-
-                  
-
-                  
-                  
-                      
-                  
-
-                  
-                      
-                  
-                      
-                  
-                      
-                          
-                      
-                  
-
-
-                  
-
-
-                  <a href="https://tlocrt.com/visual/digital_art/images/skyscrapers.png">
-                    <img class="work-image"
-                         src="https://tlocrt.com/visual/digital_art/images/skyscrapers_hu58af4fa8d6140d34150913fe1f21684a_210463_700x700_fit_box_3.png"
-                         alt="skyscrapers image"
-                         loading="lazy">
-                  </a>
-
-
-          
-
-      
-
-
-
-        <div class="work-details">
-
-<dl>
-          
-            
-              <div class="work-detail">
-                <dt> <span class="label">Title:</span> </dt>
-                <dd> <span class="value">Skyscrapers</span> </dd>
-              </div>
-            
-        
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Description:</span> </dt>
-                <dd> <span class="value"> An abstract digital artwork. </span> </dd>
-              </div>
-            
-
-
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Software:</span> </dt>
-                <dd> <span class="value">Affinity Designer</span> </dd>
-              </div>
-            
-
-
-
-            
-
-            
-
-
-
-            
-
-            
-
-
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Date:</span> </dt>
-                <dd> <span class="value"> May 2024 </span> </dd>
-              </div>
-            
-
-     </dl>
-
-    </div>]]><![CDATA[<p>I was trying to make a gradient for an unrelated project and I liked how two overlapping rectangles looked like.</p>
-<p>After some tweaking of the positions and the colours, Skyscrapers were born.</p>
-]]></content:encoded>
-            </item>
-        
-    
-        
-            <item>
-                <title>
-                    
-                        Patch Shirt
-                    
-                </title>
-                <link>https://tlocrt.com/other/sewing/patch_shirt/</link>
-                <guid>https://tlocrt.com/other/sewing/patch_shirt/</guid>
-                <pubDate>
-                    Mon, 22 Apr 2024 00:00:00 +0000
-                </pubDate>
-                <description>
-                    
-                    <![CDATA[A stretchy shirt made from three different pieces of fabric.]]>
-                </description>
-                <content:encoded><![CDATA[
-
-      
-
-          
-
-            
-
-                  
-
-                  
-                  
-                      
-                  
-
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                          
-                      
-                  
-
-
-                  
-
-
-                  <a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_on.jpg">
-                    <img class="work-image"
-                         src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_on_hu9e4bd193e2aa921122e3686750d9d219_531714_700x700_fit_q75_box.jpg"
-                         alt="Patch Shirt image"
-                         loading="lazy">
-                  </a>
-
-
-          
-
-      
-
-
-
-        <div class="work-details">
-
-<dl>
-          
-            
-              <div class="work-detail">
-                <dt> <span class="label">Title:</span> </dt>
-                <dd> <span class="value">Patch Shirt</span> </dd>
-              </div>
-            
-        
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Description:</span> </dt>
-                <dd> <span class="value"> A stretchy shirt made from three different pieces of fabric. </span> </dd>
-              </div>
-            
-
-
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-
-
-            
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Fabric:</span> </dt>
-                <dd> <span class="value"> Cotton jersey </span> </dd>
-              </div>
-            
-
-
-
-            
-
-            
-
-
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Date:</span> </dt>
-                <dd> <span class="value"> April 2024 </span> </dd>
-              </div>
-            
-
-     </dl>
-
-    </div>]]><![CDATA[<p>This is the first item of clothing I made.</p>
-<p>It was also the most challenging sewing project so far.
-I had never worked with stretchy fabrics before and I don&rsquo;t have a walking foot, so it took some trial and error before I was able to get anything resembling a &ldquo;straight&rdquo; zig-zag stitch.</p>
-
-
-
-
-
-
-
-    
-
-    
-        
-    
-
-    
-
-    
-
-
-
-
-
-
-<a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_collar.jpg">
-<img class="md-image"
-        src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_collar_hu7c0f160c53223f703ac4fe9d19cd979f_710997_700x700_fit_q75_box.jpg"
-        alt=""
-        loading="lazy">
-</a>
-
-<p>I also had a small accident while I was sewing a hem, which resulted in a small hole.</p>
-
-
-
-
-
-
-
-    
-
-    
-
-    
-        
-    
-
-    
-
-
-
-
-
-
-<a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_fail.jpg">
-<img class="md-image"
-        src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_fail_hu228545a9b10bcb61288c71a94acef8f0_747200_700x700_fit_q75_box.jpg"
-        alt=""
-        loading="lazy">
-</a>
-
-<p>But the shirt is wearable nevertheless. Here is one more photo.</p>
-
-
-
-
-
-
-
-    
-        
-    
-
-    
-
-    
-
-    
-
-
-
-
-
-
-<a href="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_birdeye.jpg">
-<img class="md-image"
-        src="https://tlocrt.com/other/sewing/patch_shirt/images/patch_shirt_birdeye_hua56cf32c843bd89902d37f34b0ba2127_694258_700x700_fit_q75_box.jpg"
-        alt=""
-        loading="lazy">
-</a>
-
-<p>This first photo was taken by the awesome <a href="https://www.jan-schuessler.ch/">Jan Schüssler</a>.</p>
-]]></content:encoded>
-            </item>
-        
-    
-
-  </channel>
-</rss>
+    </div>]]></content:encoded></item></channel></rss>

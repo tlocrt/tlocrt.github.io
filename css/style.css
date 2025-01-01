@@ -8,9 +8,10 @@
     --nav-height-desktop:30px;
     --footer-height: 50px;
     --background: #000000;
-    --text:  #CCCCCC;
+    --text:  #AAAAAA;
     --secondary: #777777;
     --highlight: #FFFFFF;
+    --fancycolor: #4cbac2;
     --work-width: 400px;
     --line-height: 1.5;
     --selection-color: #000000;
@@ -31,11 +32,14 @@
 
 
 body {
+    /* font-family: "Spectral", serif; */
+    /* font-weight: 200; */
     font-family: "Montserrat", sans-serif;
     font-weight: 100;
     font-size: 14pt;
     color: var(--text);
     background-color: var(--background);
+    word-spacing: 0.05em;
 }
 
 
@@ -54,7 +58,7 @@ p, li {
 
 b, strong {
   color: var(--highlight);
-  font-weight: 500;
+  font-weight: 400;
 }
 
 footer {
@@ -80,7 +84,7 @@ a {
     text-decoration-line: underline;
     text-decoration-thickness: 1px;
     text-decoration-color: var(--secondary);
-    text-underline-offset: 5px;
+    text-underline-offset: 2.5px;
     /* font-weight: 400; */
 }
 
@@ -91,6 +95,36 @@ a:hover {
 a.before-date {
     display: inline-block;
 }
+
+
+/* a { */
+/*   text-decoration: none; /\* Removes the underline *\/ */
+/*   position: relative; /\* Needed for positioning the pseudo-elements *\/ */
+/* } */
+
+/* a::before, a::after { */
+/*   content: ''; */
+/*   position: absolute; */
+/*   background-color: red; /\* Color of the corner *\/ */
+/* } */
+
+/* a::before { */
+/*   top: 0; */
+/*   left: 0; /\* Position at the top-left corner *\/ */
+/*   width: 3px;  /\* Vertical line length *\/ */
+/*   height: 3px; /\* Horizontal line length *\/ */
+/* } */
+
+/* a::after { */
+/*   bottom: 0; */
+/*   right: 0; /\* Position at the bottom-right corner *\/ */
+/*   width: 3px; /\* Horizontal line length *\/ */
+/*   height: 3px; /\* Vertical line length *\/ */
+/* } */
+
+
+
+
 
 
 /* navigation bar settings  */
@@ -107,7 +141,6 @@ a.before-date {
 }
 
 .main-nav-bar a.active {
-    font-weight: bold;
     color: var(--highlight);
 }
 
@@ -126,7 +159,6 @@ a.before-date {
 }
 
 .sub-nav-bar a.active {
-    font-weight: bold;
     color: var(--highlight);
 }
 
@@ -402,7 +434,7 @@ code {
 .description {
   margin-top: 10px;
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   margin-left: 0.88em;
   color: var(--secondary);
 }
@@ -430,6 +462,7 @@ code {
 
 
     .logo {
+      padding-top: 40px;
       flex-shrink: 1;
     }
 
@@ -530,14 +563,14 @@ code {
     }
 
     .hover-image:hover {
-    transform: scale(1.05); /* Scale the image up by 10% */
+    transform: scale(1.02); /* Scale the image up by 10% */
     }
     .single-col-gallery-entry img {
     transition: transform 0.3s ease-in-out; /* Smooth transition effect */
     }
 
     .single-col-gallery-entry img:hover {
-    transform: scale(1.03); /* Scale the image up by 10% */
+    transform: scale(1.02); /* Scale the image up by 10% */
     }
 
 
@@ -675,7 +708,7 @@ code {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 100;
-  src: url('../fonts/montserrat-v26-latin_latin-ext-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('../fonts/montserrat-v26-latin-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* montserrat-100italic - latin_latin-ext */
@@ -757,4 +790,104 @@ code {
   font-style: italic;
   font-weight: 700;
   src: url('../fonts/montserrat-v26-latin_latin-ext-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+
+
+
+/* spectral-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 200;
+  src: url('../fonts/spectral-v14-latin-200.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-200italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 200;
+  src: url('../fonts/spectral-v14-latin-200italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/spectral-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/spectral-v14-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/spectral-v14-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-700italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/spectral-v14-latin-700italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/spectral-v14-latin-800.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* spectral-800italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: 800;
+  src: url('../fonts/spectral-v14-latin-800italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+
+
+
+
+
+/* lora-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lora-v35-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* lora-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/lora-v35-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
