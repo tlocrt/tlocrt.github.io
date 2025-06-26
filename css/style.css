@@ -211,17 +211,6 @@ a.md-link {
     column-count: 2;
     column-gap: 10px;
 }
-/* .fake-masonry-gallery gallery-image { */
-/*   /\* width: 100%; *\/ */
-/*   /\* height: auto; *\/ */
-/*   /\* display: block; *\/ */
-/*   /\* margin-bottom: 16px; *\/ */
-/*   /\* break-inside: avoid; *\/ */
-/*   width: 100%; */
-/*   height: auto; */
-/*   display: block; */
-/*   object-fit: cover; */
-/* } */
 
 
 
@@ -231,11 +220,6 @@ a.md-link {
     column-gap: 10px;
 }
 .fake-masonry-gallery gallery-image {
-  /* width: 100%; */
-  /* height: auto; */
-  /* display: block; */
-  /* margin-bottom: 16px; */
-  /* break-inside: avoid; */
   width: 100%;
   height: auto;
   display: block;
@@ -255,6 +239,16 @@ a.md-link {
   object-fit: cover;
 }
 
+
+.gallery-desktop {
+  display: block;
+  align-items: flex-start;  /* <--- this matters! */
+}
+
+}
+.gallery-mobile {
+  display: none;
+}
 
 
 .photo-date {
@@ -287,7 +281,6 @@ a.md-link {
     width: 100%;
     height: auto; /* This maintains the aspect ratio */
     display: block;
-
     margin-bottom: 10px;
 }
 
@@ -359,18 +352,6 @@ dd {
 }
 
 
-
-/* .label { */
-/*     text-align: right; */
-/*     padding-right: 5px; */
-/*     grid-column: 1; */
-/*     color: var(--secondary); */
-/* } */
-
-/* .value { */
-/*     text-align: left; */
-/*     grid-column: 2; */
-/* } */
 
 
 .links-container {
@@ -579,6 +560,13 @@ code {
 
 
 
+    .gallery-desktop {
+      display: block;
+    }
+    .gallery-mobile {
+      display: none;
+    }
+
     .gallery-image {
       position: relative;
       /* display: inline-block; */
@@ -601,29 +589,6 @@ code {
     .side-right .photo-date {
       right: -2em;
     }
-
-
-
-
-    /* .hover-date { */
-    /*   position: relative; */
-    /*   bottom: 0; */
-    /*   width: 100%; */
-    /*   background: rgba(0, 0, 0, 0.6); */
-    /*   color: white; */
-    /*   text-align: center; */
-    /*   padding: 0.5rem; */
-    /*   opacity: 0; */
-    /*   transition: opacity 0.3s ease; */
-    /*   font-size: 0.9rem; */
-    /* } */
-
-    /* .gallery-image:hover .hover-date { */
-    /*   opacity: 1; */
-    /* } */
-
-
-
 
 
 
@@ -732,6 +697,15 @@ code {
     .triple-col-gallery {
         grid-template-columns: repeat(1, 1fr);
         gap: 15px;
+      }
+
+
+
+      .gallery-desktop {
+        display: none;
+      }
+      .gallery-mobile {
+        display: block;
       }
 
 
