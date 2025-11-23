@@ -291,6 +291,9 @@ a.md-link {
 }
 
 
+main img {
+    max-width: 100%;
+}
 
 
 /* setup for music single pages */
