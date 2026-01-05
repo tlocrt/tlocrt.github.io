@@ -1,5 +1,119 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>tlocrt</title><link>https://tlocrt.com/</link><pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><description>Latest content from tlocrt</description><atom:link href="https://tlocrt.com/feed.xml" rel="self" type="application/rss+xml"/><item><title>
-Collapse</title><link>https://tlocrt.com/music/collapse/</link><guid>https://tlocrt.com/music/collapse/</guid><pubDate>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>tlocrt</title><link>https://tlocrt.com/</link><pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate><description>Latest content from tlocrt</description><atom:link href="https://tlocrt.com/feed.xml" rel="self" type="application/rss+xml"/><item><title>
+Logic Pro Notes</title><link>https://tlocrt.com/other/notes/logic_shortcuts/</link><guid>https://tlocrt.com/other/notes/logic_shortcuts/</guid><pubDate>
+Tue, 30 Dec 2025 00:00:00 +0000</pubDate><description>
+Quick reference for shortcuts in Logic Pro.</description><content:encoded><![CDATA[
+
+      
+
+          
+
+      
+
+
+
+        <div class="work-details">
+
+<dl>
+          
+            
+              <div class="work-detail">
+                <dt> <span class="label">Title:</span> </dt>
+                <dd> <span class="value">Logic Pro Notes</span> </dd>
+              </div>
+            
+        
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Description:</span> </dt>
+                <dd> <span class="value"> Quick reference for shortcuts in Logic Pro. </span> </dd>
+              </div>
+            
+
+
+
+
+            
+
+            
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+            
+
+            
+
+
+
+
+            
+              <div class="work-detail">
+                <dt> <span class="label">Date:</span> </dt>
+                <dd> <span class="value"> December 2025 </span> </dd>
+              </div>
+            
+
+     </dl>
+
+    </div>
+]]><![CDATA[<table>
+  <thead>
+      <tr>
+          <th style="text-align: center">Key</th>
+          <th style="text-align: center">Action</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center"><code>z</code></td>
+          <td style="text-align: center">Zoom in track (fit height)</td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><code>t</code></td>
+          <td style="text-align: center">Changing the cursor tool</td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><code>Cmd</code></td>
+          <td style="text-align: center">Temporary switch to chosen &ldquo;right click&rdquo; tool (which should be marquee)</td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><code>Ctrl Alt G</code></td>
+          <td style="text-align: center">Normalize region gain</td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><code>Ctrl Shift R</code></td>
+          <td style="text-align: center">Reverse region (also in Editors &gt; File &gt; Functions &gt; Reverse)</td>
+      </tr>
+  </tbody>
+</table>
+]]></content:encoded></item><item><title>Collapse</title><link>https://tlocrt.com/music/collapse/</link><guid>https://tlocrt.com/music/collapse/</guid><pubDate>
 Mon, 27 Oct 2025 00:00:00 +0000</pubDate><description>
 Song loosely inspired by the collapse of a certain financial institution.</description><content:encoded><![CDATA[
 
@@ -18,33 +132,17 @@ Song loosely inspired by the collapse of a certain financial institution.</descr
 
                   
                       
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
                           
                       
                   
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
 
 
                   
 
 
-                  <a href="https://tlocrt.com/music/images/collapse.png">
+                  <a href="https://tlocrt.com/music/collapse/images/collapse.png">
                     <img class="work-image"
-                         src="https://tlocrt.com/music/images/collapse_hu3771412622291006637.png"
+                         src="https://tlocrt.com/music/collapse/images/collapse_hu4297908480916607637.png"
                          alt="collapse artwork"
                          loading="lazy">
                   </a>
@@ -164,7 +262,8 @@ Song loosely inspired by the collapse of a certain financial institution.</descr
 
      </dl>
 
-    </div>]]></content:encoded></item><item><title>Zabranjen Osmeh</title><link>https://tlocrt.com/music/zabranjen_osmeh/</link><guid>https://tlocrt.com/music/zabranjen_osmeh/</guid><pubDate>
+    </div>
+]]></content:encoded></item><item><title>Zabranjen Osmeh</title><link>https://tlocrt.com/music/zabranjen_osmeh/</link><guid>https://tlocrt.com/music/zabranjen_osmeh/</guid><pubDate>
 Sun, 24 Aug 2025 00:00:00 +0000</pubDate><description>
 Soviet post-punk inspired song.</description><content:encoded><![CDATA[
 
@@ -183,22 +282,6 @@ Soviet post-punk inspired song.</description><content:encoded><![CDATA[
 
                   
                       
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
                           
                       
                   
@@ -207,9 +290,9 @@ Soviet post-punk inspired song.</description><content:encoded><![CDATA[
                   
 
 
-                  <a href="https://tlocrt.com/music/images/zabranjen_osmeh.jpg">
+                  <a href="https://tlocrt.com/music/zabranjen_osmeh/images/zabranjen_osmeh.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/music/images/zabranjen_osmeh_hu16504254056111962456.jpg"
+                         src="https://tlocrt.com/music/zabranjen_osmeh/images/zabranjen_osmeh_hu10517350423790912923.jpg"
                          alt="Zabranjen osmeh artwork"
                          loading="lazy">
                   </a>
@@ -329,11 +412,379 @@ Soviet post-punk inspired song.</description><content:encoded><![CDATA[
 
      </dl>
 
-    </div>]]></content:encoded></item><item><title>Photo / Day</title><link>https://tlocrt.com/visual/photography/photo-a-day/</link><guid>https://tlocrt.com/visual/photography/photo-a-day/</guid><pubDate>
+    </div>
+]]></content:encoded></item><item><title>Photo / Day</title><link>https://tlocrt.com/photography/photo-a-day/</link><guid>https://tlocrt.com/photography/photo-a-day/</guid><pubDate>
 Mon, 09 Jun 2025 00:00:00 +0000</pubDate><description>
 Photo a day project, started on 8th June 2025.</description><content:encoded><![CDATA[
 
       
+
+          
+
+            
+
+                  
+
+                  
+                  
+                      
+                  
+
+                  
+                      
+                          
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+                      
+                  
+
+
+                  
+
+
+                  <a href="https://tlocrt.com/photography/photo-a-day/images/000-bright_plant.jpg">
+                    <img class="work-image"
+                         src="https://tlocrt.com/photography/photo-a-day/images/000-bright_plant_hu16894277455765160998.jpg"
+                         alt="Photo / Day image"
+                         loading="lazy">
+                  </a>
+
 
           
 
@@ -412,7 +863,8 @@ Photo a day project, started on 8th June 2025.</description><content:encoded><![
 
      </dl>
 
-    </div>]]></content:encoded></item><item><title>Cracks</title><link>https://tlocrt.com/visual/art/cracks/</link><guid>https://tlocrt.com/visual/art/cracks/</guid><pubDate>
+    </div>
+]]></content:encoded></item><item><title>Cracks</title><link>https://tlocrt.com/other/art/cracks/</link><guid>https://tlocrt.com/other/art/cracks/</guid><pubDate>
 Tue, 25 Mar 2025 00:00:00 +0000</pubDate><description>
 Painting / lamp.</description><content:encoded><![CDATA[
 
@@ -447,9 +899,9 @@ Painting / lamp.</description><content:encoded><![CDATA[
                   
 
 
-                  <a href="https://tlocrt.com/visual/art/cracks/images/cracks_backlit.jpg">
+                  <a href="https://tlocrt.com/other/art/cracks/images/cracks_backlit.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/visual/art/cracks/images/cracks_backlit_hu6209511464115790189.jpg"
+                         src="https://tlocrt.com/other/art/cracks/images/cracks_backlit_hu7014194590018111430.jpg"
                          alt="Cracks image"
                          loading="lazy">
                   </a>
@@ -542,14 +994,11 @@ Painting / lamp.</description><content:encoded><![CDATA[
 
      </dl>
 
-    </div>]]><![CDATA[<p>More crackle paste! But now it&rsquo;s backlit. Here is what it looks like in daylight.</p>
+    </div>
+]]><![CDATA[<p>More crackle paste! But now it&rsquo;s backlit. Here is what it looks like in daylight.</p>
 
 
-  
-
-
-
-
+ 
 
 
 
@@ -575,9 +1024,13 @@ Painting / lamp.</description><content:encoded><![CDATA[
 
 
 
-<a href="https://tlocrt.com/visual/art/cracks/images/cracks_front_hu17454259419830643274.jpg">
+
+
+
+
+<a href="https://tlocrt.com/other/art/cracks/images/cracks_front_hu12098327063131591131.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/cracks/images/cracks_front_hu17454259419830643274.jpg"
+         src="https://tlocrt.com/other/art/cracks/images/cracks_front_hu12098327063131591131.jpg"
          alt=""
          loading="lazy">
 </a>
@@ -586,7 +1039,7 @@ Painting / lamp.</description><content:encoded><![CDATA[
 <p>The initial version consisted of the canvas and an LED strip glued to cardboard. I figured this was not the biggest brain move, so I instead got some fancy fireproof material from the local hardware store and glued the LEDs to that.</p>
 
 
-  
+ 
 
 
 
@@ -616,9 +1069,9 @@ Painting / lamp.</description><content:encoded><![CDATA[
 
 
 
-<a href="https://tlocrt.com/visual/art/cracks/images/cracks_backside_hu7596951788453321165.jpg">
+<a href="https://tlocrt.com/other/art/cracks/images/cracks_backside_hu13125094772923760222.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/cracks/images/cracks_backside_hu7596951788453321165.jpg"
+         src="https://tlocrt.com/other/art/cracks/images/cracks_backside_hu13125094772923760222.jpg"
          alt=""
          loading="lazy">
 </a>
@@ -627,7 +1080,7 @@ Painting / lamp.</description><content:encoded><![CDATA[
 <p>I wanted to be able to remove the lights from the canvas, so I used adhesive velcro strips to attach the fancy material to the frame.</p>
 
 
-  
+ 
 
 
 
@@ -657,9 +1110,9 @@ Painting / lamp.</description><content:encoded><![CDATA[
 
 
 
-<a href="https://tlocrt.com/visual/art/cracks/images/cracks_separated_hu5231253353479790833.jpg">
+<a href="https://tlocrt.com/other/art/cracks/images/cracks_separated_hu17215606027426920904.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/cracks/images/cracks_separated_hu5231253353479790833.jpg"
+         src="https://tlocrt.com/other/art/cracks/images/cracks_separated_hu17215606027426920904.jpg"
          alt=""
          loading="lazy">
 </a>
@@ -668,7 +1121,7 @@ Painting / lamp.</description><content:encoded><![CDATA[
 <p>I put some black insulation tape to the sides in order to block the light from coming out.</p>
 
 
-  
+ 
 
 
 
@@ -698,9 +1151,9 @@ Painting / lamp.</description><content:encoded><![CDATA[
 
 
 
-<a href="https://tlocrt.com/visual/art/cracks/images/cracks_tape_hu13024256863539441766.jpg">
+<a href="https://tlocrt.com/other/art/cracks/images/cracks_tape_hu10137989637990841126.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/cracks/images/cracks_tape_hu13024256863539441766.jpg"
+         src="https://tlocrt.com/other/art/cracks/images/cracks_tape_hu10137989637990841126.jpg"
          alt=""
          loading="lazy">
 </a>
@@ -725,33 +1178,17 @@ Trailer music.</description><content:encoded><![CDATA[
 
                   
                       
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
                           
                       
                   
-                      
-                  
-                      
-                  
-                      
-                  
 
 
                   
 
 
-                  <a href="https://tlocrt.com/music/images/colossus_rescore.png">
+                  <a href="https://tlocrt.com/music/colossus_rescore/images/colossus_rescore.png">
                     <img class="work-image"
-                         src="https://tlocrt.com/music/images/colossus_rescore_hu10930644782633372415.png"
+                         src="https://tlocrt.com/music/colossus_rescore/images/colossus_rescore_hu9125959749774259679.png"
                          alt="Colossus"
                          loading="lazy">
                   </a>
@@ -795,6 +1232,11 @@ Trailer music.</description><content:encoded><![CDATA[
               </div>
             
 
+            
+              <div class="work-detail">
+                <dt> <span class="label">Artist:</span> </dt>
+                <dd> <span class="value">Tlocrt</span> </dd>
+              </div>
             
 
             
@@ -862,7 +1304,8 @@ Trailer music.</description><content:encoded><![CDATA[
 
      </dl>
 
-    </div>]]><![CDATA[<p>A company making virtual instruments organised a competition where they made available a ~70 second long video without audio and asked people to re-score it. The video is a trailer for one of their sample libraries and the original version (with the original audio) is <a href="https://www.youtube.com/watch?v=JJQ__r2mQ6c">here</a>.</p>
+    </div>
+]]><![CDATA[<p>A company making virtual instruments organised a competition where they made available a ~70 second long video without audio and asked people to re-score it. The video is a trailer for one of their sample libraries and the original version (with the original audio) is <a href="https://www.youtube.com/watch?v=JJQ__r2mQ6c">here</a>.</p>
 <p>I had a lot of fun working on my version of the score! I&rsquo;m super happy with how the foley glass/paper sounds at <a href="https://youtu.be/sCefagjPG4M?feature=shared&amp;t=13">00:13</a> turned out and also how the &ldquo;hopeful&rdquo; part at <a href="https://youtu.be/sCefagjPG4M?feature=shared&amp;t=25">00:25</a> transitions into creepy.</p>
 ]]></content:encoded></item><item><title>Alone</title><link>https://tlocrt.com/music/alone/</link><guid>https://tlocrt.com/music/alone/</guid><pubDate>
 Sat, 28 Dec 2024 00:00:00 +0000</pubDate><description>
@@ -886,30 +1329,14 @@ Song about arriving to a place that will be your new home.</description><content
                           
                       
                   
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
-                      
-                  
 
 
                   
 
 
-                  <a href="https://tlocrt.com/music/images/alone.jpg">
+                  <a href="https://tlocrt.com/music/alone/images/alone.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/music/images/alone_hu9891254067318090865.jpg"
+                         src="https://tlocrt.com/music/alone/images/alone_hu11461821222966956546.jpg"
                          alt="Alone artwork"
                          loading="lazy">
                   </a>
@@ -1029,7 +1456,8 @@ Song about arriving to a place that will be your new home.</description><content
 
      </dl>
 
-    </div>]]></content:encoded></item><item><title>Dash</title><link>https://tlocrt.com/visual/art/dash/</link><guid>https://tlocrt.com/visual/art/dash/</guid><pubDate>
+    </div>
+]]></content:encoded></item><item><title>Dash</title><link>https://tlocrt.com/other/art/dash/</link><guid>https://tlocrt.com/other/art/dash/</guid><pubDate>
 Sun, 17 Nov 2024 00:00:00 +0000</pubDate><description>
 A watercolor painting of my parents' dog.</description><content:encoded><![CDATA[
 
@@ -1056,9 +1484,9 @@ A watercolor painting of my parents' dog.</description><content:encoded><![CDATA
                   
 
 
-                  <a href="https://tlocrt.com/visual/art/dash/images/dash.jpg">
+                  <a href="https://tlocrt.com/other/art/dash/images/dash.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/visual/art/dash/images/dash_hu7575190480477096588.jpg"
+                         src="https://tlocrt.com/other/art/dash/images/dash_hu11786663399448803263.jpg"
                          alt="Dash image"
                          loading="lazy">
                   </a>
@@ -1151,7 +1579,8 @@ A watercolor painting of my parents' dog.</description><content:encoded><![CDATA
 
      </dl>
 
-    </div>]]></content:encoded></item><item><title>Unknowable</title><link>https://tlocrt.com/visual/art/unknowable/</link><guid>https://tlocrt.com/visual/art/unknowable/</guid><pubDate>
+    </div>
+]]></content:encoded></item><item><title>Unknowable</title><link>https://tlocrt.com/other/art/unknowable/</link><guid>https://tlocrt.com/other/art/unknowable/</guid><pubDate>
 Wed, 06 Nov 2024 00:00:00 +0000</pubDate><description>
 An abstract watercolour painting.</description><content:encoded><![CDATA[
 
@@ -1178,9 +1607,9 @@ An abstract watercolour painting.</description><content:encoded><![CDATA[
                   
 
 
-                  <a href="https://tlocrt.com/visual/art/unknowable/images/unknowable.jpg">
+                  <a href="https://tlocrt.com/other/art/unknowable/images/unknowable.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/visual/art/unknowable/images/unknowable_hu6880694866023439648.jpg"
+                         src="https://tlocrt.com/other/art/unknowable/images/unknowable_hu18379383430336916769.jpg"
                          alt="Unknowable image"
                          loading="lazy">
                   </a>
@@ -1273,7 +1702,8 @@ An abstract watercolour painting.</description><content:encoded><![CDATA[
 
      </dl>
 
-    </div>]]>&lt;p>Inspired by the interludes from the 2024 Sleep Token tour.&lt;/p>
+    </div>
+]]>&lt;p>Inspired by the interludes from the 2024 Sleep Token tour.&lt;/p>
 </content:encoded></item><item><title>Bitesized Website</title><link>https://tlocrt.com/other/web/bitesized_website/</link><guid>https://tlocrt.com/other/web/bitesized_website/</guid><pubDate>
 Sun, 01 Sep 2024 00:00:00 +0000</pubDate><description>
 A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA[
@@ -1305,7 +1735,7 @@ A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA
 
                   <a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01.png">
                     <img class="work-image"
-                         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01_hu9878913375542596661.png"
+                         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_v01_hu16990241338756477065.png"
                          alt="bitesized website image"
                          loading="lazy">
                   </a>
@@ -1393,7 +1823,8 @@ A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA
 
      </dl>
 
-    </div>]]><![CDATA[<p>I created another website, this time for Bitesized. This one was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>, as I could reuse the theme I had already built.</p>
+    </div>
+]]><![CDATA[<p>I created another website, this time for Bitesized. This one was considerably less work than the <a href="https://tlocrt.com/other/web/tlocrt_website/">tlocrt website</a>, as I could reuse the theme I had already built.</p>
 <p>Since most of the Bitesized cover art is greyscale, I went with a simple greyscale look.</p>
 <p>Bitesized is a DIY band. I tried conveying this by using a handwritten font in the headers and by incorporating custom handwritten letters in the logo.</p>
 <p>Website features include:</p>
@@ -1405,7 +1836,7 @@ A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA
 <p>One of my favourite parts is how the simplified logo in the favicon turned out.</p>
 
 
-  
+ 
 
 
 
@@ -1429,15 +1860,15 @@ A website for Bitesized, created in Hugo.</description><content:encoded><![CDATA
 
 
 
-<a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu11795942459930596934.png">
+<a href="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu835185293190173826.png">
     <img class="md-image"
-         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu11795942459930596934.png"
+         src="https://tlocrt.com/other/web/bitesized_website/images/bitesized_website_favicon_hu835185293190173826.png"
          alt=""
          loading="lazy">
 </a>
 
 
-]]></content:encoded></item><item><title>Life of a Plant</title><link>https://tlocrt.com/visual/art/life_of_a_plant/</link><guid>https://tlocrt.com/visual/art/life_of_a_plant/</guid><pubDate>
+]]></content:encoded></item><item><title>Life of a Plant</title><link>https://tlocrt.com/other/art/life_of_a_plant/</link><guid>https://tlocrt.com/other/art/life_of_a_plant/</guid><pubDate>
 Tue, 20 Aug 2024 00:00:00 +0000</pubDate><description>
 An acrylic-on-canvas triptych, inspired by different colours of a plant.</description><content:encoded><![CDATA[
 
@@ -1474,9 +1905,9 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
                   
 
 
-                  <a href="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_birdeye.jpg">
+                  <a href="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_birdeye.jpg">
                     <img class="work-image"
-                         src="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_birdeye_hu14154229490679998858.jpg"
+                         src="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_birdeye_hu3930448952444798885.jpg"
                          alt="Life of a plant image"
                          loading="lazy">
                   </a>
@@ -1569,14 +2000,11 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
 
      </dl>
 
-    </div>]]><![CDATA[<p>We have a big pretty plant (of the Scindapsus pictus kind I think). One day, after spotting one of its leaves that had fallen off, I felt inspired to paint something plant-related.</p>
+    </div>
+]]><![CDATA[<p>We have a big pretty plant (of the Scindapsus pictus kind I think). One day, after spotting one of its leaves that had fallen off, I felt inspired to paint something plant-related.</p>
 
 
-  
-
-
-
-
+ 
 
 
 
@@ -1604,9 +2032,13 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
 
 
 
-<a href="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_leaf_hu1449941057489291313.jpg">
+
+
+
+
+<a href="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_leaf_hu8036787252468704633.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_leaf_hu1449941057489291313.jpg"
+         src="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_leaf_hu8036787252468704633.jpg"
          alt=""
          loading="lazy">
 </a>
@@ -1616,7 +2048,7 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
 <p>Getting the colours right took some trial and error.</p>
 
 
-  
+ 
 
 
 
@@ -1648,9 +2080,9 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
 
 
 
-<a href="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu5531893980789346206.jpg">
+<a href="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu3114773799126419932.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu5531893980789346206.jpg"
+         src="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_paint_mixing_hu3114773799126419932.jpg"
          alt=""
          loading="lazy">
 </a>
@@ -1659,7 +2091,7 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
 <p>Here&rsquo;s one more pic.</p>
 
 
-  
+ 
 
 
 
@@ -1691,206 +2123,9 @@ An acrylic-on-canvas triptych, inspired by different colours of a plant.</descri
 
 
 
-<a href="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_side_hu16710045454553034650.jpg">
+<a href="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_side_hu13845598611799651578.jpg">
     <img class="md-image"
-         src="https://tlocrt.com/visual/art/life_of_a_plant/images/life_of_a_plant_side_hu16710045454553034650.jpg"
-         alt=""
-         loading="lazy">
-</a>
-
-
-]]></content:encoded></item><item><title>Tank Top</title><link>https://tlocrt.com/other/sewing/tank_top/</link><guid>https://tlocrt.com/other/sewing/tank_top/</guid><pubDate>
-Tue, 13 Aug 2024 00:00:00 +0000</pubDate><description>
-A tank top with pointy sides, made for my mum.</description><content:encoded><![CDATA[
-
-      
-
-          
-
-            
-
-                  
-
-                  
-                  
-                      
-                  
-
-                  
-                      
-                  
-                      
-                          
-                      
-                  
-                      
-                  
-
-
-                  
-
-
-                  <a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on.jpg">
-                    <img class="work-image"
-                         src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_on_hu18232909647252170831.jpg"
-                         alt="tank top image"
-                         loading="lazy">
-                  </a>
-
-
-          
-
-      
-
-
-
-        <div class="work-details">
-
-<dl>
-          
-            
-              <div class="work-detail">
-                <dt> <span class="label">Title:</span> </dt>
-                <dd> <span class="value">Tank Top</span> </dd>
-              </div>
-            
-        
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Description:</span> </dt>
-                <dd> <span class="value"> A tank top with pointy sides, made for my mum. </span> </dd>
-              </div>
-            
-
-
-
-
-            
-
-            
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-            
-
-
-
-            
-
-            
-
-
-
-            
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Fabric:</span> </dt>
-                <dd> <span class="value"> Cotton jersey </span> </dd>
-              </div>
-            
-
-
-
-            
-
-            
-
-
-
-
-            
-              <div class="work-detail">
-                <dt> <span class="label">Date:</span> </dt>
-                <dd> <span class="value"> August 2024 </span> </dd>
-              </div>
-            
-
-     </dl>
-
-    </div>]]><![CDATA[<p>My mum was visiting and I made her a tank top.
-She wanted a tank top with longer sides, similar to one she already has.</p>
-<p>The most challenging part of this project was the bottom hem. Since the sides are longer, the bottom edges were not perpendicular to the side seam and I had to improvise sewing those corners. I guess they turned out okay given my (lack of) XP.</p>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner_hu7253823171372016590.jpg">
-    <img class="md-image"
-         src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_corner_hu7253823171372016590.jpg"
-         alt=""
-         loading="lazy">
-</a>
-
-
-<p>Here&rsquo;s one more pic.</p>
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder_hu16965250538944580111.jpg">
-    <img class="md-image"
-         src="https://tlocrt.com/other/sewing/tank_top/images/tank_top_shoulder_hu16965250538944580111.jpg"
+         src="https://tlocrt.com/other/art/life_of_a_plant/images/life_of_a_plant_side_hu13845598611799651578.jpg"
          alt=""
          loading="lazy">
 </a>
